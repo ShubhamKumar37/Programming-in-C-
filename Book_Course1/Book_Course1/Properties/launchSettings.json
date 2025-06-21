@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Book_Course1": {
+      "commandName": "Project",
+      "commandLineArgs": "/arg1 -arg2"
+    }
+  }
+}
