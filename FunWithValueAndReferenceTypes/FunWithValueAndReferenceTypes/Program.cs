@@ -18,6 +18,47 @@ struct Point
 
 class Program
 {
+
+    class ShapeInfo
+    {
+        public string str;
+        public ShapeInfo(string str)
+        {
+            this.str = str;
+        }
+    }
+
+    struct Rectangle
+    {
+        public ShapeInfo RectInfo;
+        public int top, right, bottom, left;
+
+        public Rectangle(string info, int top, int right, int bottom, int left)
+        {
+            RectInfo = new ShapeInfo(info);
+            this.top = top;
+            this.right = right; ;
+            this.bottom = bottom;
+            this.left = left;
+        }
+
+        public void Display()
+        {
+            Console.WriteLine("String = {0}, Top = {1}, Bottom = {2}, " + "Left = {3}, Right = {4}", RectInfo.str, top, bottom, left, right);
+        }
+    }
+
+    static void CheckRef()
+    {
+        Rectangle rect = new Rectangle("This shape have 4 side", 4, 5, 4, 5);
+        rect.Display();
+        Rectangle rect2 = rect;
+
+        rect.top = 23;
+        rect.Display();
+        rect2.Display();
+    }
+
     class PointRef
     {
         public int x;
@@ -56,7 +97,8 @@ class Program
         // p1.Display();
         // p2.Display();
 
-        ReferenceTypeAssingment();
+        //ReferenceTypeAssingment();
+        CheckRef();
     }
 
     
