@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunWithTypeConversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7250b33e94df5f30e4d1f1ea74cd10e488435423")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunWithTypeConversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunWithTypeConversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
