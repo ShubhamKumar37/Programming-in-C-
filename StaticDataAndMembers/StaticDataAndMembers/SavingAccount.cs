@@ -5,7 +5,7 @@ namespace StaticDataAndMembers;
 class SavingAccount
 {
     public double balance;
-    static public double currentInterestRate = 0.04;
+    private static double _currentInterestRate = 0.04;
 
     public SavingAccount(double balance)
     {
@@ -14,12 +14,17 @@ class SavingAccount
     }
     static SavingAccount()
     {
-        currentInterestRate = 0.04;
+        _currentInterestRate = 0.04;
         // as the CoreCLR calls all static constructors before the first use (and never calls them again for 
         //that instance of the application).
     }
 
-    public static double GetInterestRate() => currentInterestRate;
-    public static void SetInterestRate(double currentInterestRate) => SavingAccount.currentInterestRate = currentInterestRate; // We are not allowed to use the this keyword in static member
-    
+    public static double InterestRate
+    {
+        get => _currentInterestRate;
+        set => _currentInterestRate = value;
+    }
+    //public static double GetInterestRate() => currentInterestRate;
+    //public static void SetInterestRate(double currentInterestRate) => SavingAccount.currentInterestRate = currentInterestRate; // We are not allowed to use the this keyword in static member
+
 }
