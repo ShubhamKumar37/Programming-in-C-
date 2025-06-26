@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\FunWithPartial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F18B7E38-C663-4622-B706-6165C7935E15}|FunWithPartial\\FunWithPartial.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\funwithpartial\\funwithpartial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18B7E38-C663-4622-B706-6165C7935E15}|FunWithPartial\\FunWithPartial.csproj|solutionrelative:funwithpartial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18B7E38-C663-4622-B706-6165C7935E15}|FunWithPartial\\FunWithPartial.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\funwithpartial\\funwithpartial\\person.partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18B7E38-C663-4622-B706-6165C7935E15}|FunWithPartial\\FunWithPartial.csproj|solutionrelative:funwithpartial\\person.partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.Partial.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\FunWithPartial\\FunWithPartial\\Person.Partial.cs",
+              "RelativeDocumentMoniker": "FunWithPartial\\Person.Partial.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\FunWithPartial\\FunWithPartial\\Person.Partial.cs",
+              "RelativeToolTip": "FunWithPartial\\Person.Partial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:41:56.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\FunWithPartial\\FunWithPartial\\Program.cs",
+              "RelativeDocumentMoniker": "FunWithPartial\\Program.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\FunWithPartial\\FunWithPartial\\Program.cs",
+              "RelativeToolTip": "FunWithPartial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:41:41.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
