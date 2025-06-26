@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ConstData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2F50B-39D2-4F03-BB5A-7E4B29156F56}|ConstData\\ConstData.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\constdata\\constdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E2F50B-39D2-4F03-BB5A-7E4B29156F56}|ConstData\\ConstData.csproj|solutionrelative:constdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E2F50B-39D2-4F03-BB5A-7E4B29156F56}|ConstData\\ConstData.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\constdata\\constdata\\mymathclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E2F50B-39D2-4F03-BB5A-7E4B29156F56}|ConstData\\ConstData.csproj|solutionrelative:constdata\\mymathclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyMathClass.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ConstData\\ConstData\\MyMathClass.cs",
+              "RelativeDocumentMoniker": "ConstData\\MyMathClass.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ConstData\\ConstData\\MyMathClass.cs",
+              "RelativeToolTip": "ConstData\\MyMathClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:14:48.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ConstData\\ConstData\\Program.cs",
+              "RelativeDocumentMoniker": "ConstData\\Program.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ConstData\\ConstData\\Program.cs",
+              "RelativeToolTip": "ConstData\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:14:40.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

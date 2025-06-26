@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ImplecitlyTypedLocalVars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B071EAB3-E646-46D7-8F2A-213BD6AFECA5}|ImplecitlyTypedLocalVars\\ImplecitlyTypedLocalVars.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\implecitlytypedlocalvars\\implecitlytypedlocalvars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B071EAB3-E646-46D7-8F2A-213BD6AFECA5}|ImplecitlyTypedLocalVars\\ImplecitlyTypedLocalVars.csproj|solutionrelative:implecitlytypedlocalvars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ImplecitlyTypedLocalVars\\ImplecitlyTypedLocalVars\\Program.cs",
+              "RelativeDocumentMoniker": "ImplecitlyTypedLocalVars\\Program.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ImplecitlyTypedLocalVars\\ImplecitlyTypedLocalVars\\Program.cs",
+              "RelativeToolTip": "ImplecitlyTypedLocalVars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T06:19:52.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ObjectIntializer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49BFB511-7968-4986-B6B3-0845AA899390}|ObjectIntializer\\ObjectIntializer.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\objectintializer\\objectintializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BFB511-7968-4986-B6B3-0845AA899390}|ObjectIntializer\\ObjectIntializer.csproj|solutionrelative:objectintializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BFB511-7968-4986-B6B3-0845AA899390}|ObjectIntializer\\ObjectIntializer.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\objectintializer\\objectintializer\\readonlypointaftercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BFB511-7968-4986-B6B3-0845AA899390}|ObjectIntializer\\ObjectIntializer.csproj|solutionrelative:objectintializer\\readonlypointaftercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BFB511-7968-4986-B6B3-0845AA899390}|ObjectIntializer\\ObjectIntializer.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\objectintializer\\objectintializer\\pointcolorenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BFB511-7968-4986-B6B3-0845AA899390}|ObjectIntializer\\ObjectIntializer.csproj|solutionrelative:objectintializer\\pointcolorenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointColorEnums.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ObjectIntializer\\ObjectIntializer\\PointColorEnums.cs",
+              "RelativeDocumentMoniker": "ObjectIntializer\\PointColorEnums.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ObjectIntializer\\ObjectIntializer\\PointColorEnums.cs",
+              "RelativeToolTip": "ObjectIntializer\\PointColorEnums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T04:41:56.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadOnlyPointAfterCreation.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ObjectIntializer\\ObjectIntializer\\ReadOnlyPointAfterCreation.cs",
+              "RelativeDocumentMoniker": "ObjectIntializer\\ReadOnlyPointAfterCreation.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ObjectIntializer\\ObjectIntializer\\ReadOnlyPointAfterCreation.cs",
+              "RelativeToolTip": "ObjectIntializer\\ReadOnlyPointAfterCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T04:31:06.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ObjectIntializer\\ObjectIntializer\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectIntializer\\Program.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\ObjectIntializer\\ObjectIntializer\\Program.cs",
+              "RelativeToolTip": "ObjectIntializer\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T04:19:12.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

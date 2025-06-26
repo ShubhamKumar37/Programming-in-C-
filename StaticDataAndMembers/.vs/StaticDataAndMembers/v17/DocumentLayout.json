@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\StaticDataAndMembers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B606BB4-721F-45C7-B832-E89F67075888}|StaticDataAndMembers\\StaticDataAndMembers.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\staticdataandmembers\\staticdataandmembers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B606BB4-721F-45C7-B832-E89F67075888}|StaticDataAndMembers\\StaticDataAndMembers.csproj|solutionrelative:staticdataandmembers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B606BB4-721F-45C7-B832-E89F67075888}|StaticDataAndMembers\\StaticDataAndMembers.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\staticdataandmembers\\staticdataandmembers\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B606BB4-721F-45C7-B832-E89F67075888}|StaticDataAndMembers\\StaticDataAndMembers.csproj|solutionrelative:staticdataandmembers\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B606BB4-721F-45C7-B832-E89F67075888}|StaticDataAndMembers\\StaticDataAndMembers.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\staticdataandmembers\\staticdataandmembers\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B606BB4-721F-45C7-B832-E89F67075888}|StaticDataAndMembers\\StaticDataAndMembers.csproj|solutionrelative:staticdataandmembers\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B606BB4-721F-45C7-B832-E89F67075888}|StaticDataAndMembers\\StaticDataAndMembers.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\staticdataandmembers\\staticdataandmembers\\timeutilclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B606BB4-721F-45C7-B832-E89F67075888}|StaticDataAndMembers\\StaticDataAndMembers.csproj|solutionrelative:staticdataandmembers\\timeutilclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Radio.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\StaticDataAndMembers\\StaticDataAndMembers\\Radio.cs",
+              "RelativeDocumentMoniker": "StaticDataAndMembers\\Radio.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\StaticDataAndMembers\\StaticDataAndMembers\\Radio.cs",
+              "RelativeToolTip": "StaticDataAndMembers\\Radio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:29:40.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeUtilClass.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\StaticDataAndMembers\\StaticDataAndMembers\\TimeUtilClass.cs",
+              "RelativeDocumentMoniker": "StaticDataAndMembers\\TimeUtilClass.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\StaticDataAndMembers\\StaticDataAndMembers\\TimeUtilClass.cs",
+              "RelativeToolTip": "StaticDataAndMembers\\TimeUtilClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:13:20.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\StaticDataAndMembers\\StaticDataAndMembers\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "StaticDataAndMembers\\SavingAccount.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\StaticDataAndMembers\\StaticDataAndMembers\\SavingAccount.cs",
+              "RelativeToolTip": "StaticDataAndMembers\\SavingAccount.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:37:42.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\StaticDataAndMembers\\StaticDataAndMembers\\Program.cs",
+              "RelativeDocumentMoniker": "StaticDataAndMembers\\Program.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\StaticDataAndMembers\\StaticDataAndMembers\\Program.cs",
+              "RelativeToolTip": "StaticDataAndMembers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:27:29.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

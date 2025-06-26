@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\SimpleClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8714B9CF-EA34-457B-BA3F-4AABC4F6F5B0}|SimpleClassExample\\SimpleClassExample.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\simpleclassexample\\simpleclassexample\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8714B9CF-EA34-457B-BA3F-4AABC4F6F5B0}|SimpleClassExample\\SimpleClassExample.csproj|solutionrelative:simpleclassexample\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8714B9CF-EA34-457B-BA3F-4AABC4F6F5B0}|SimpleClassExample\\SimpleClassExample.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\simpleclassexample\\simpleclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8714B9CF-EA34-457B-BA3F-4AABC4F6F5B0}|SimpleClassExample\\SimpleClassExample.csproj|solutionrelative:simpleclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8714B9CF-EA34-457B-BA3F-4AABC4F6F5B0}|SimpleClassExample\\SimpleClassExample.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\simpleclassexample\\simpleclassexample\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8714B9CF-EA34-457B-BA3F-4AABC4F6F5B0}|SimpleClassExample\\SimpleClassExample.csproj|solutionrelative:simpleclassexample\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\SimpleClassExample\\SimpleClassExample\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "SimpleClassExample\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\SimpleClassExample\\SimpleClassExample\\Motorcycle.cs",
+              "RelativeToolTip": "SimpleClassExample\\Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:39:20.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\SimpleClassExample\\SimpleClassExample\\Car.cs",
+              "RelativeDocumentMoniker": "SimpleClassExample\\Car.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\SimpleClassExample\\SimpleClassExample\\Car.cs",
+              "RelativeToolTip": "SimpleClassExample\\Car.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:44:36.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\SimpleClassExample\\SimpleClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleClassExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\SimpleClassExample\\SimpleClassExample\\Program.cs",
+              "RelativeToolTip": "SimpleClassExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:43:36.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
