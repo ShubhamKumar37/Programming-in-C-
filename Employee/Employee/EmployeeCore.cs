@@ -8,13 +8,13 @@ namespace Employee
 {
     partial class Employee
     {
-        private string _name;
-        private int _empId;
-        private double _currPay;
-        private int _empAge;
-        private string _SSN;
-        private PayType _payType;
-        private DateTime _hireDate;
+        protected string _name;
+        protected int _empId;
+        protected double _currPay;
+        protected int _empAge;
+        protected string _SSN;
+        protected PayType _payType;
+        protected DateTime _hireDate;
 
         public Employee() { }
         public Employee(string name, int id, double pay, string SSN) : this(name, 0, id, pay, SSN, PayType.Salaried) { }
@@ -45,7 +45,7 @@ namespace Employee
         public string SocialSecurityNumber
         {
             get => _SSN; // If we omit the set keyword then this property will make the variable read-only property vice versa
-            private set => _SSN = value; // Now this value can only changed by the class inside itself
+            set => _SSN = value; // Now this value can only changed by the class inside itself
         }
         // Those property which are only read-only we can create them like this 
         //public string SocialSecurityNumber => _SSN;

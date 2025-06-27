@@ -16,9 +16,12 @@ class Program
         //emp1.EmpId = 21213;
         //emp1.CurrPay = 32233234;
         //emp1.DisplayContant();
-        Employee emp1 = new Employee("Shubham Kumar", 21, 1002, 1200000, "223223442", PayType.Comission);
-        emp1.DisplayContant();
-        emp1.GiveBonus(20000);
-        emp1.DisplayContant();
+        //Employee emp1 = new Employee("Shubham Kumar", 21, 1002, 1200000, "223223442", PayType.Comission);
+        //emp1.DisplayContant();
+        //emp1.GiveBonus(20000);
+        //emp1.DisplayContant();
+
+        SalesPerson sp1 = new SalesPerson { Age = 22, Name = "Shubham Kumar", SalesNumber = 43 };
+
     }
 }
