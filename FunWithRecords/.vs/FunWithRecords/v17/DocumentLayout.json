@@ -22,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarRecord.cs",
-              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\FunWithRecords\\FunWithRecords\\CarRecord.cs",
-              "RelativeDocumentMoniker": "FunWithRecords\\CarRecord.cs",
-              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\FunWithRecords\\FunWithRecords\\CarRecord.cs",
-              "RelativeToolTip": "FunWithRecords\\CarRecord.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T18:06:01.116Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -45,9 +32,21 @@
               "RelativeDocumentMoniker": "FunWithRecords\\Car.cs",
               "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\FunWithRecords\\FunWithRecords\\Car.cs",
               "RelativeToolTip": "FunWithRecords\\Car.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T17:54:07.957Z",
+              "WhenOpened": "2025-06-27T04:44:45.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\FunWithRecords\\FunWithRecords\\CarRecord.cs",
+              "RelativeDocumentMoniker": "FunWithRecords\\CarRecord.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\FunWithRecords\\FunWithRecords\\CarRecord.cs",
+              "RelativeToolTip": "FunWithRecords\\CarRecord.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:06:01.116Z",
               "EditorCaption": ""
             },
             {
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "FunWithRecords\\Program.cs",
               "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\FunWithRecords\\FunWithRecords\\Program.cs",
               "RelativeToolTip": "FunWithRecords\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCQAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T17:54:03.921Z",
               "EditorCaption": ""
