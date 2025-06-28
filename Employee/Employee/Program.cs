@@ -1,4 +1,6 @@
-﻿namespace Employee;
+﻿using System.Security.Cryptography;
+
+namespace Employee;
 
 class Program
 {
@@ -21,7 +23,19 @@ class Program
         //emp1.GiveBonus(20000);
         //emp1.DisplayContant();
 
-        SalesPerson sp1 = new SalesPerson { Age = 22, Name = "Shubham Kumar", SalesNumber = 43 };
+
+        //Employee.BenefitPackage.BenefitsPackageLevels EmployeePackageLevelType = Employee.BenefitPackage.BenefitsPackageLevels.Gold;
+        //SalesPerson sp1 = new SalesPerson { Age = 22, Name = "Shubham Kumar", SalesNumber = 43 };
+        Manager Chucky = new Manager("Shubham Kumar", 22, 101, 1000000, "323432423", 12221);
+        Console.WriteLine("This is the benefit cost = {0}", Chucky.GetBenefitCost());
+        Chucky.GiveBonus(323);
+        Chucky.DisplayContant();
+        //SalesPerson fran = new SalesPerson("Fran", 43, 93, 3000, "932-32-3232", 31);
+        //fran.GiveBonus(200);
+        //fran.DisplayContant();
 
     }
 }
+
+//OuterClass.publicInnerClass inner; // This will work 
+//OuterClass.PrivateInnerClass inner; // Really not OK , compilation error, cann't access the private class

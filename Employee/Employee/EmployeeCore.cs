@@ -8,6 +8,17 @@ namespace Employee
 {
     partial class Employee
     {
+        internal class BenefitPackage
+        {
+            public enum BenefitsPackageLevels
+            {
+                Standard, Gold, Platinum
+            }
+            public double ComputePayDeduction()
+            {
+                return 125D;
+            }
+        }
         protected string _name;
         protected int _empId;
         protected double _currPay;
@@ -15,7 +26,13 @@ namespace Employee
         protected string _SSN;
         protected PayType _payType;
         protected DateTime _hireDate;
+        protected BenefitPackage EmpBenefits = new BenefitPackage();
 
+        public BenefitPackage Benefits
+        {
+            get => EmpBenefits;
+            set => EmpBenefits = value;
+        }   
         public Employee() { }
         public Employee(string name, int id, double pay, string SSN) : this(name, 0, id, pay, SSN, PayType.Salaried) { }
         public Employee(string name, int age, int id, double pay, string SSN, PayType payType)
