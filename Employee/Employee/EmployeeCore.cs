@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Employee
 {
-    partial class Employee
+    abstract partial class Employee
     {
         internal class BenefitPackage
         {

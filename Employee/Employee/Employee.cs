@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Employee
 {
-    partial class Employee
+    abstract partial class Employee
     {
 
         public double GetBenefitCost() => EmpBenefits.ComputePayDeduction();

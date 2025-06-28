@@ -34,6 +34,8 @@ class Program
         //fran.GiveBonus(200);
         //fran.DisplayContant();
 
+        //Employee emp1 = new Employee(); // This is because the abstract class can not be use to create object
+
     }
 }
 

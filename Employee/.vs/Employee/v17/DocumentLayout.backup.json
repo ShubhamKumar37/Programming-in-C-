@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\Employee\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\employee\\employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|solutionrelative:employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\employee\\employee\\employeecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|solutionrelative:employee\\employeecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\employee\\employee\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|solutionrelative:employee\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\employee\\employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|solutionrelative:employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\employee\\employee\\employeecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|solutionrelative:employee\\employeecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7697A60-A9B0-478F-93A1-B56397CFDE7F}|Employee\\Employee.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\employee\\employee\\benefitpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SalesPerson.cs",
               "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\Employee\\Employee\\SalesPerson.cs",
               "RelativeDocumentMoniker": "Employee\\SalesPerson.cs",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\Employee\\Employee\\Manager.cs",
               "RelativeDocumentMoniker": "Employee\\Manager.cs",
@@ -93,39 +93,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\Employee\\Employee\\Employee.cs",
               "RelativeDocumentMoniker": "Employee\\Employee.cs",
               "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\Employee\\Employee\\Employee.cs",
               "RelativeToolTip": "Employee\\Employee.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAD4vyAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T06:45:58.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "EmployeeCore.cs",
               "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\Employee\\Employee\\EmployeeCore.cs",
               "RelativeDocumentMoniker": "Employee\\EmployeeCore.cs",
               "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\Employee\\Employee\\EmployeeCore.cs",
               "RelativeToolTip": "Employee\\EmployeeCore.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T06:45:33.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\Employee\\Employee\\Program.cs",
               "RelativeDocumentMoniker": "Employee\\Program.cs",
               "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\Employee\\Employee\\Program.cs",
               "RelativeToolTip": "Employee\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T06:45:17.91Z",
               "EditorCaption": ""
