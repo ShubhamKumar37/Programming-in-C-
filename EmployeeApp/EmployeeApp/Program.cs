@@ -1,4 +1,13 @@
 ﻿namespace EmployeeApp;
+namespace Shapes;
+
+class Hexagon
+{
+    public void Draw()
+    {
+        Console.WriteLine("Drawing a hexagon!");
+    }
+}
 
 class Program
 {
@@ -16,9 +25,20 @@ class Program
         //emp1.EmpId = 21213;
         //emp1.CurrPay = 32233234;
         //emp1.DisplayContant();
-        Employee emp1 = new Employee("Shubham Kumar", 21, 1002, 1200000, "223223442", PayType.Comission);
-        emp1.DisplayContant();
-        emp1.GiveBonus(20000);
-        emp1.DisplayContant();
+        object emp1 = new Employee("Shubham Kumar", 21, 1002, 1200000, "223223442", PayType.Comission);
+        //emp1.DisplayContant();
+        //emp1.GiveBonus(20000);
+        //emp1.DisplayContant();
+
+        Hexagon hex;
+        try
+        {
+            hex = (Hexagon)emp1;
+            hex.Draw();
+        }
+        catch(InvalidCaseException ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
     }
 }
