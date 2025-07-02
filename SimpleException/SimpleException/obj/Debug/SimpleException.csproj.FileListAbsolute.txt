@@ -6,3 +6,11 @@ D:\programing in cSharp\SimpleException\SimpleException\obj\Debug\SimpleExceptio
 D:\programing in cSharp\SimpleException\SimpleException\obj\Debug\SimpleException.exe
 D:\programing in cSharp\SimpleException\SimpleException\obj\Debug\SimpleException.pdb
 D:\programing in cSharp\SimpleException\SimpleException\obj\Debug\SimpleException.exe.config
+C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\SimpleException\SimpleException\obj\Debug\SimpleException.csproj.AssemblyReference.cache
+C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\SimpleException\SimpleException\obj\Debug\SimpleException.exe.config
+C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\SimpleException\SimpleException\obj\Debug\SimpleException.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\SimpleException\SimpleException\obj\Debug\SimpleException.pdb
+C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\SimpleException\SimpleException\bin\Debug\SimpleException.pdb

@@ -37,7 +37,10 @@ namespace SimpleException
                     CurrSped = 0;
                     _isCarDead = true;
                     //Console.WriteLine("{0} has been overheated", PetName); // Instead of this i can throw exception using throw keyword
-                    throw new Exception($"{PetName} has been overheated");
+                    throw new Exception($"{PetName} has been overheated")
+                    {
+                        HelpLink = " http://www.cars.com/overheated"
+                    };
                 }
                 Console.WriteLine("{0} is the current speed", CurrSped);
             }
@@ -62,12 +65,28 @@ namespace SimpleException
             Console.WriteLine("***** Simple Exception Example *****");
             Console.WriteLine("=> Creating a car and stepping on it!");
             Car myCar = new Car(20, "Zippy");
-            myCar.CrankTunes(true);
-            for (int i = 0; i < 10; i++)
+            //myCar.CrankTunes(true);
+            //myCar.CrankTunes(true);
+
+            try
             {
-                myCar.Accelerate(10);
+
+                for (int i = 0; i < 10; i++)
+                {
+                    myCar.Accelerate(10);
+                }
             }
-            myCar.CrankTunes(true);
+            catch(Exception e)
+            {
+                Console.WriteLine("\n*** Error! ***");
+                Console.WriteLine("Member name: {0}", e.TargetSite);
+                Console.WriteLine("Class defining member: {0}", e.TargetSite.DeclaringType);
+                Console.WriteLine("Help Link: {0}", e.HelpLink);
+                Console.WriteLine("Member type: {0}", e.TargetSite.MemberType);
+                Console.WriteLine("Message: {0}", e.Message);
+                Console.WriteLine("Source: {0}", e.Source);
+
+            }
         }
     }
 }
