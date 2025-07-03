@@ -1,0 +1,16 @@
+D:\programing in cSharp\CustomException\CustomException\bin\Debug\CustomException.exe.config
+D:\programing in cSharp\CustomException\CustomException\bin\Debug\CustomException.exe
+D:\programing in cSharp\CustomException\CustomException\bin\Debug\CustomException.pdb
+D:\programing in cSharp\CustomException\CustomException\obj\Debug\CustomException.csproj.AssemblyReference.cache
+D:\programing in cSharp\CustomException\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\CustomException\CustomException\obj\Debug\CustomException.exe
+D:\programing in cSharp\CustomException\CustomException\obj\Debug\CustomException.pdb
+D:\programing in cSharp\CustomException\CustomException\obj\Debug\CustomException.exe.config
+D:\programing in cSharp\C#_Prog\CustomException\CustomException\bin\Debug\CustomException.exe.config
+D:\programing in cSharp\C#_Prog\CustomException\CustomException\bin\Debug\CustomException.exe
+D:\programing in cSharp\C#_Prog\CustomException\CustomException\bin\Debug\CustomException.pdb
+D:\programing in cSharp\C#_Prog\CustomException\CustomException\obj\Debug\CustomException.csproj.AssemblyReference.cache
+D:\programing in cSharp\C#_Prog\CustomException\CustomException\obj\Debug\CustomException.exe.config
+D:\programing in cSharp\C#_Prog\CustomException\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\CustomException\CustomException\obj\Debug\CustomException.exe
+D:\programing in cSharp\C#_Prog\CustomException\CustomException\obj\Debug\CustomException.pdb
