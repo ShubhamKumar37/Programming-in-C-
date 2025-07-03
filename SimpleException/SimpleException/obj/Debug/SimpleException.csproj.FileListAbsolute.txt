@@ -14,3 +14,11 @@ C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\SimpleException\Simple
 C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
 C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\SimpleException\SimpleException\bin\Debug\SimpleException.exe
 C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+D:\programing in cSharp\C#_Prog\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+D:\programing in cSharp\C#_Prog\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+D:\programing in cSharp\C#_Prog\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+D:\programing in cSharp\C#_Prog\SimpleException\SimpleException\obj\Debug\SimpleException.csproj.AssemblyReference.cache
+D:\programing in cSharp\C#_Prog\SimpleException\SimpleException\obj\Debug\SimpleException.exe.config
+D:\programing in cSharp\C#_Prog\SimpleException\SimpleException\obj\Debug\SimpleException.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+D:\programing in cSharp\C#_Prog\SimpleException\SimpleException\obj\Debug\SimpleException.pdb

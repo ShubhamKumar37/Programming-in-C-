@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -39,7 +40,12 @@ namespace SimpleException
                     //Console.WriteLine("{0} has been overheated", PetName); // Instead of this i can throw exception using throw keyword
                     throw new Exception($"{PetName} has been overheated")
                     {
-                        HelpLink = " http://www.cars.com/overheated"
+                        HelpLink = " http://www.cars.com/overheated",
+                        Data =
+                        {
+                            { "TimeStamps", $"Car was dead at {DateTime.Now}" },
+                            {"Cause", "You had lead the foot" }
+                        }
                     };
                 }
                 Console.WriteLine("{0} is the current speed", CurrSped);
@@ -85,8 +91,17 @@ namespace SimpleException
                 Console.WriteLine("Member type: {0}", e.TargetSite.MemberType);
                 Console.WriteLine("Message: {0}", e.Message);
                 Console.WriteLine("Source: {0}", e.Source);
+                
+                foreach (DictionaryEntry i in e.Data)
+                {
+                    Console.WriteLine($"This is key = {i.Key} and its value is {i.Value}");
+                }
 
             }
+            NullReferenceException nullRefEx = new NullReferenceException();
+            Console.WriteLine(
+            "NullReferenceException is-a SystemException? : {0}",
+            nullRefEx is SystemException);
         }
     }
 }

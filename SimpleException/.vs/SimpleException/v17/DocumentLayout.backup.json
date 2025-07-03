@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\SimpleException\\",
+  "WorkspaceRootPath": "D:\\programing in cSharp\\C#_Prog\\SimpleException\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90E3BB54-D910-411F-9741-16A2B2474532}|SimpleException\\SimpleException.csproj|C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\SimpleException\\SimpleException\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90E3BB54-D910-411F-9741-16A2B2474532}|SimpleException\\SimpleException.csproj|solutionrelative:SimpleException\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90E3BB54-D910-411F-9741-16A2B2474532}|SimpleException\\SimpleException.csproj|d:\\programing in csharp\\c#_prog\\simpleexception\\simpleexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E3BB54-D910-411F-9741-16A2B2474532}|SimpleException\\SimpleException.csproj|solutionrelative:simpleexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\SimpleException\\SimpleException\\Program.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\SimpleException\\SimpleException\\Program.cs",
               "RelativeDocumentMoniker": "SimpleException\\Program.cs",
-              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\SimpleException\\SimpleException\\Program.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\SimpleException\\SimpleException\\Program.cs",
               "RelativeToolTip": "SimpleException\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFMAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T11:59:18.135Z",
               "EditorCaption": ""
