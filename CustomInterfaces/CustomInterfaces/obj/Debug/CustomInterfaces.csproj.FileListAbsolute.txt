@@ -1,0 +1,8 @@
+D:\programing in cSharp\C#_Prog\CustomInterfaces\CustomInterfaces\obj\Debug\CustomInterfaces.csproj.AssemblyReference.cache
+D:\programing in cSharp\C#_Prog\CustomInterfaces\CustomInterfaces\obj\Debug\CustomInterfaces.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\CustomInterfaces\CustomInterfaces\bin\Debug\CustomInterfaces.exe.config
+D:\programing in cSharp\C#_Prog\CustomInterfaces\CustomInterfaces\bin\Debug\CustomInterfaces.exe
+D:\programing in cSharp\C#_Prog\CustomInterfaces\CustomInterfaces\bin\Debug\CustomInterfaces.pdb
+D:\programing in cSharp\C#_Prog\CustomInterfaces\CustomInterfaces\obj\Debug\CustomInterfaces.exe
+D:\programing in cSharp\C#_Prog\CustomInterfaces\CustomInterfaces\obj\Debug\CustomInterfaces.pdb
+D:\programing in cSharp\C#_Prog\CustomInterfaces\CustomInterfaces\obj\Debug\CustomInterfaces.exe.config
