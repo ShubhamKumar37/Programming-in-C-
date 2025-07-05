@@ -1,4 +1,4 @@
-﻿using CustomInterfaces;
+﻿using CustomInterface;
 using System;
 using System.Diagnostics;
 //using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Diagnostics;
 //using System.Text;
 //using System.Threading.Tasks;
 
-namespace CustomeInterfaces
+namespace CustomInterface
 {
 
     public abstract class Shape
@@ -23,7 +23,7 @@ namespace CustomeInterfaces
                                       // also abstract method can only define inside a abstract class
     }
 
-    public class Circle : Shape // If i donot implement the Draw() method then i have to mark this class as abstarct else compilation error
+    public class Circle : Shape // , IPointy // If i donot implement the Draw() method then i have to mark this class as abstarct else compilation error
     {
         public Circle() { }
         public Circle(string name) : base(name) { }
@@ -33,9 +33,13 @@ namespace CustomeInterfaces
             Console.WriteLine("This is also a circle draw method and i need a 360 deg and my pet name is {0}", PetName);
         }
 
+        public byte Points => 123;
+        public byte GetNumberOfPoints() => 3;
+        public string PropName { get; set; }
+
     }
 
-    public class Hexagon : Shape
+    public class Hexagon : Shape, IDraw3D
     {
         public Hexagon() { }
         public Hexagon(string name) : base(name) { }
@@ -44,9 +48,14 @@ namespace CustomeInterfaces
         {
             Console.WriteLine("This is the hexagon shape and we are about to do it");
         }
+
+        public void Draw3D()
+        {
+            Console.WriteLine("This is 3d hexagon and i need to print it ");
+        }
     }
 
-    class ThreeDCircle : Circle
+    class ThreeDCircle : Circle, IDraw3D
     {
         // here new keyword is use to intentionally ignore the original implementation
         public new string PetName { get; set; }
@@ -61,6 +70,11 @@ namespace CustomeInterfaces
         {
             Console.WriteLine("This is a 3d circle");
         }
+
+        public void Draw3D()
+        {
+            Console.WriteLine("This is 3d circle and i need to print it ");
+        }
     }
 
     public class Triangle : Shape, IPointy
@@ -73,7 +87,9 @@ namespace CustomeInterfaces
             Console.WriteLine("This is a triangle cann't you see this ");
         }
 
-        byte Points => 123;
+        public byte Points => 123;
+        public byte GetNumberOfPoints() => 3;
+        public string PropName { get; set; }
     }
 
     //public class Pencil: IPointy { } // We have to declare all the methods and other variable from interface
@@ -84,6 +100,40 @@ namespace CustomeInterfaces
     {
         static void Main(string[] args)
         {
+
+            Triangle tr1 = new Triangle();
+            Console.WriteLine(tr1.GetNumberOfPoints());
+
+            Circle c1 = new Circle("Gola");
+            IPointy ip = null;
+            try
+            {
+                ip = (IPointy)c1; // Explicit type casting to check wheather circle includes the property of ipointy or not
+            }
+            catch(InvalidCastException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            ip = c1 as IPointy;
+            if (ip == null) Console.WriteLine("Opps it is not possible");
+            else Console.WriteLine("Yes this is possible and here is the points = {0}", ip.Points);
+
+            if (ip is IPointy i) Console.WriteLine("Yes ip is implementing interface");
+            else Console.WriteLine("No it doesn't");
+
+            var sq = new Square("Boxy") { NumberOfSides = 4, SideLength = 4 };
+            sq.Draw();
+            //This won't compile
+            Console.WriteLine($"{sq.PetName} has {sq.NumberOfSides} of length {sq.SideLength} and a perimeter of { ((IRegularlyPointy)sq).Perimeter}"); // we have to explicity cast it because in sqare class there is no implementation for this
+            // we can also do this , but due to this we can not use the property fo square
+            IRegularlyPointy ipr = new Square("Choxy") { NumberOfSides=4, SideLength = 4 };
+
+            Console.WriteLine($"Examle Property {IRegularlyPointy.ExampleProperty}");
+            IRegularlyPointy.ExampleProperty = "New property man ";
+            Console.WriteLine($"Examle Property {IRegularlyPointy.ExampleProperty}");
+
+
             //IPointy ip = new IPointy(); // interface and abstract cannot be instansiated 
             //Hexagon hex = new Hexagon("Hexgon");
             //hex.Draw();

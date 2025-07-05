@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\testingdotnet1\bin\Debug\net9.0\testingdotnet1.exe
+D:\programing in cSharp\C#_Prog\testingdotnet1\bin\Debug\net9.0\testingdotnet1.deps.json
+D:\programing in cSharp\C#_Prog\testingdotnet1\bin\Debug\net9.0\testingdotnet1.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\testingdotnet1\bin\Debug\net9.0\testingdotnet1.dll
+D:\programing in cSharp\C#_Prog\testingdotnet1\bin\Debug\net9.0\testingdotnet1.pdb
+D:\programing in cSharp\C#_Prog\testingdotnet1\obj\Debug\net9.0\testingdotnet1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\testingdotnet1\obj\Debug\net9.0\testingdotnet1.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\testingdotnet1\obj\Debug\net9.0\testingdotnet1.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\testingdotnet1\obj\Debug\net9.0\testingdotnet1.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\testingdotnet1\obj\Debug\net9.0\testingdotnet1.sourcelink.json
+D:\programing in cSharp\C#_Prog\testingdotnet1\obj\Debug\net9.0\testingdotnet1.dll
+D:\programing in cSharp\C#_Prog\testingdotnet1\obj\Debug\net9.0\refint\testingdotnet1.dll
+D:\programing in cSharp\C#_Prog\testingdotnet1\obj\Debug\net9.0\testingdotnet1.pdb
+D:\programing in cSharp\C#_Prog\testingdotnet1\obj\Debug\net9.0\testingdotnet1.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\testingdotnet1\obj\Debug\net9.0\ref\testingdotnet1.dll
