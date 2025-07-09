@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.sourcelink.json
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.exe
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.deps.json
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.dll
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.pdb
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.dll
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\obj\Debug\net8.0\refint\CustomEnumerator.dll
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.pdb
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\CustomEnumerator\CustomEnumerator\obj\Debug\net8.0\ref\CustomEnumerator.dll

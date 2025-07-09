@@ -1,0 +1,14 @@
+D:\programing in cSharp\FunCollection\FunCollection\bin\Debug\net9.0\FunCollection.exe
+D:\programing in cSharp\FunCollection\FunCollection\bin\Debug\net9.0\FunCollection.deps.json
+D:\programing in cSharp\FunCollection\FunCollection\bin\Debug\net9.0\FunCollection.runtimeconfig.json
+D:\programing in cSharp\FunCollection\FunCollection\bin\Debug\net9.0\FunCollection.dll
+D:\programing in cSharp\FunCollection\FunCollection\bin\Debug\net9.0\FunCollection.pdb
+D:\programing in cSharp\FunCollection\FunCollection\obj\Debug\net9.0\FunCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\FunCollection\FunCollection\obj\Debug\net9.0\FunCollection.AssemblyInfoInputs.cache
+D:\programing in cSharp\FunCollection\FunCollection\obj\Debug\net9.0\FunCollection.AssemblyInfo.cs
+D:\programing in cSharp\FunCollection\FunCollection\obj\Debug\net9.0\FunCollection.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\FunCollection\FunCollection\obj\Debug\net9.0\FunCollection.dll
+D:\programing in cSharp\FunCollection\FunCollection\obj\Debug\net9.0\refint\FunCollection.dll
+D:\programing in cSharp\FunCollection\FunCollection\obj\Debug\net9.0\FunCollection.pdb
+D:\programing in cSharp\FunCollection\FunCollection\obj\Debug\net9.0\FunCollection.genruntimeconfig.cache
+D:\programing in cSharp\FunCollection\FunCollection\obj\Debug\net9.0\ref\FunCollection.dll

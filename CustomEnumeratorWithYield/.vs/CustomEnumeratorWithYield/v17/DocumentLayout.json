@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programing in cSharp\\C#_Prog\\CustomEnumeratorWithYield\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C201146-BD16-4C13-8BA0-2F8799937023}|CustomEnumeratorWithYield\\CustomEnumeratorWithYield.csproj|d:\\programing in csharp\\c#_prog\\customenumeratorwithyield\\customenumeratorwithyield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C201146-BD16-4C13-8BA0-2F8799937023}|CustomEnumeratorWithYield\\CustomEnumeratorWithYield.csproj|solutionrelative:customenumeratorwithyield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C201146-BD16-4C13-8BA0-2F8799937023}|CustomEnumeratorWithYield\\CustomEnumeratorWithYield.csproj|d:\\programing in csharp\\c#_prog\\customenumeratorwithyield\\customenumeratorwithyield\\carisdeadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C201146-BD16-4C13-8BA0-2F8799937023}|CustomEnumeratorWithYield\\CustomEnumeratorWithYield.csproj|solutionrelative:customenumeratorwithyield\\carisdeadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C201146-BD16-4C13-8BA0-2F8799937023}|CustomEnumeratorWithYield\\CustomEnumeratorWithYield.csproj|d:\\programing in csharp\\c#_prog\\customenumeratorwithyield\\customenumeratorwithyield\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C201146-BD16-4C13-8BA0-2F8799937023}|CustomEnumeratorWithYield\\CustomEnumeratorWithYield.csproj|solutionrelative:customenumeratorwithyield\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C201146-BD16-4C13-8BA0-2F8799937023}|CustomEnumeratorWithYield\\CustomEnumeratorWithYield.csproj|d:\\programing in csharp\\c#_prog\\customenumeratorwithyield\\customenumeratorwithyield\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C201146-BD16-4C13-8BA0-2F8799937023}|CustomEnumeratorWithYield\\CustomEnumeratorWithYield.csproj|solutionrelative:customenumeratorwithyield\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\CustomEnumeratorWithYield\\CustomEnumeratorWithYield\\Car.cs",
+              "RelativeDocumentMoniker": "CustomEnumeratorWithYield\\Car.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\CustomEnumeratorWithYield\\CustomEnumeratorWithYield\\Car.cs",
+              "RelativeToolTip": "CustomEnumeratorWithYield\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:48:18.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Radio.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\CustomEnumeratorWithYield\\CustomEnumeratorWithYield\\Radio.cs",
+              "RelativeDocumentMoniker": "CustomEnumeratorWithYield\\Radio.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\CustomEnumeratorWithYield\\CustomEnumeratorWithYield\\Radio.cs",
+              "RelativeToolTip": "CustomEnumeratorWithYield\\Radio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:48:53.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarIsDeadException.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\CustomEnumeratorWithYield\\CustomEnumeratorWithYield\\CarIsDeadException.cs",
+              "RelativeDocumentMoniker": "CustomEnumeratorWithYield\\CarIsDeadException.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\CustomEnumeratorWithYield\\CustomEnumeratorWithYield\\CarIsDeadException.cs",
+              "RelativeToolTip": "CustomEnumeratorWithYield\\CarIsDeadException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:48:39.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\CustomEnumeratorWithYield\\CustomEnumeratorWithYield\\Program.cs",
+              "RelativeDocumentMoniker": "CustomEnumeratorWithYield\\Program.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\CustomEnumeratorWithYield\\CustomEnumeratorWithYield\\Program.cs",
+              "RelativeToolTip": "CustomEnumeratorWithYield\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:47:30.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

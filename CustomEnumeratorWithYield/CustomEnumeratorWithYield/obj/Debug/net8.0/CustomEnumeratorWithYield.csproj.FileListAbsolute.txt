@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.exe
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.deps.json
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.dll
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.pdb
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.sourcelink.json
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.dll
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\net8.0\refint\CustomEnumeratorWithYield.dll
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.pdb
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\net8.0\ref\CustomEnumeratorWithYield.dll

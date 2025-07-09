@@ -17,7 +17,7 @@ namespace CustomException
  
         // This time we are not creating any message variable to display instead we can send to the parent class directly
         public CarIsDeadException() { }
-        public CarIsDeadException(string message) : base(message)
+        public CarIsDeadException(string message) : base(message) { }
         public CarIsDeadException(string message, Exception innerException) : base(message, innerException) { }
         protected CarIsDeadException(SerializationInfo info, StreamingContext context) : base(info, context) { }
         // We didn't override the message property for displaying the message in console

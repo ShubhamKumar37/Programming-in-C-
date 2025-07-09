@@ -1,0 +1,14 @@
+D:\programing in cSharp\CustomInterface\CustomInterface\obj\Debug\net9.0\CustomInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\CustomInterface\CustomInterface\obj\Debug\net9.0\CustomInterface.AssemblyInfoInputs.cache
+D:\programing in cSharp\CustomInterface\CustomInterface\obj\Debug\net9.0\CustomInterface.AssemblyInfo.cs
+D:\programing in cSharp\CustomInterface\CustomInterface\obj\Debug\net9.0\CustomInterface.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\CustomInterface\CustomInterface\bin\Debug\net9.0\CustomInterface.exe
+D:\programing in cSharp\CustomInterface\CustomInterface\bin\Debug\net9.0\CustomInterface.deps.json
+D:\programing in cSharp\CustomInterface\CustomInterface\bin\Debug\net9.0\CustomInterface.runtimeconfig.json
+D:\programing in cSharp\CustomInterface\CustomInterface\bin\Debug\net9.0\CustomInterface.dll
+D:\programing in cSharp\CustomInterface\CustomInterface\bin\Debug\net9.0\CustomInterface.pdb
+D:\programing in cSharp\CustomInterface\CustomInterface\obj\Debug\net9.0\CustomInterface.dll
+D:\programing in cSharp\CustomInterface\CustomInterface\obj\Debug\net9.0\refint\CustomInterface.dll
+D:\programing in cSharp\CustomInterface\CustomInterface\obj\Debug\net9.0\CustomInterface.pdb
+D:\programing in cSharp\CustomInterface\CustomInterface\obj\Debug\net9.0\CustomInterface.genruntimeconfig.cache
+D:\programing in cSharp\CustomInterface\CustomInterface\obj\Debug\net9.0\ref\CustomInterface.dll

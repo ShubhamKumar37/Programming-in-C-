@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\obj\Debug\net8.0\IClonablePoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\obj\Debug\net8.0\IClonablePoint.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\obj\Debug\net8.0\IClonablePoint.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\obj\Debug\net8.0\IClonablePoint.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\obj\Debug\net8.0\IClonablePoint.sourcelink.json
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\bin\Debug\net8.0\IClonablePoint.exe
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\bin\Debug\net8.0\IClonablePoint.deps.json
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\bin\Debug\net8.0\IClonablePoint.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\bin\Debug\net8.0\IClonablePoint.dll
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\bin\Debug\net8.0\IClonablePoint.pdb
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\obj\Debug\net8.0\IClonablePoint.dll
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\obj\Debug\net8.0\refint\IClonablePoint.dll
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\obj\Debug\net8.0\IClonablePoint.pdb
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\obj\Debug\net8.0\IClonablePoint.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\IClonablePoint\IClonablePoint\obj\Debug\net8.0\ref\IClonablePoint.dll

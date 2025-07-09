@@ -1,0 +1,14 @@
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\obj\Debug\net9.0\IssueWithNonGenericeCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\obj\Debug\net9.0\IssueWithNonGenericeCollections.AssemblyInfoInputs.cache
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\obj\Debug\net9.0\IssueWithNonGenericeCollections.AssemblyInfo.cs
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\obj\Debug\net9.0\IssueWithNonGenericeCollections.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\bin\Debug\net9.0\IssueWithNonGenericeCollections.exe
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\bin\Debug\net9.0\IssueWithNonGenericeCollections.deps.json
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\bin\Debug\net9.0\IssueWithNonGenericeCollections.runtimeconfig.json
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\bin\Debug\net9.0\IssueWithNonGenericeCollections.dll
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\bin\Debug\net9.0\IssueWithNonGenericeCollections.pdb
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\obj\Debug\net9.0\IssueWithNonGenericeCollections.dll
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\obj\Debug\net9.0\refint\IssueWithNonGenericeCollections.dll
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\obj\Debug\net9.0\IssueWithNonGenericeCollections.pdb
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\obj\Debug\net9.0\IssueWithNonGenericeCollections.genruntimeconfig.cache
+D:\programing in cSharp\IssueWithNonGenericeCollections\IssueWithNonGenericeCollections\obj\Debug\net9.0\ref\IssueWithNonGenericeCollections.dll
