@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\bin\Debug\net8.0\FunWithGenericCollection.exe
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\bin\Debug\net8.0\FunWithGenericCollection.deps.json
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\bin\Debug\net8.0\FunWithGenericCollection.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\bin\Debug\net8.0\FunWithGenericCollection.dll
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\bin\Debug\net8.0\FunWithGenericCollection.pdb
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\net8.0\FunWithGenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\net8.0\FunWithGenericCollection.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\net8.0\FunWithGenericCollection.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\net8.0\FunWithGenericCollection.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\net8.0\FunWithGenericCollection.sourcelink.json
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\net8.0\FunWithGenericCollection.dll
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\net8.0\refint\FunWithGenericCollection.dll
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\net8.0\FunWithGenericCollection.pdb
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\net8.0\FunWithGenericCollection.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\net8.0\ref\FunWithGenericCollection.dll

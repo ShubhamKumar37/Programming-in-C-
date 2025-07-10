@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programing in cSharp\\C#_Prog\\FunWithGenericCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{865463D3-5E49-4E0D-ACEB-27FE4CAA6381}|FunWithGenericCollection\\FunWithGenericCollection.csproj|d:\\programing in csharp\\c#_prog\\funwithgenericcollection\\funwithgenericcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865463D3-5E49-4E0D-ACEB-27FE4CAA6381}|FunWithGenericCollection\\FunWithGenericCollection.csproj|solutionrelative:funwithgenericcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865463D3-5E49-4E0D-ACEB-27FE4CAA6381}|FunWithGenericCollection\\FunWithGenericCollection.csproj|d:\\programing in csharp\\c#_prog\\funwithgenericcollection\\funwithgenericcollection\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865463D3-5E49-4E0D-ACEB-27FE4CAA6381}|FunWithGenericCollection\\FunWithGenericCollection.csproj|solutionrelative:funwithgenericcollection\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\FunWithGenericCollection\\FunWithGenericCollection\\Person.cs",
+              "RelativeDocumentMoniker": "FunWithGenericCollection\\Person.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\FunWithGenericCollection\\FunWithGenericCollection\\Person.cs",
+              "RelativeToolTip": "FunWithGenericCollection\\Person.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:04:37.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\FunWithGenericCollection\\FunWithGenericCollection\\Program.cs",
+              "RelativeDocumentMoniker": "FunWithGenericCollection\\Program.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\FunWithGenericCollection\\FunWithGenericCollection\\Program.cs",
+              "RelativeToolTip": "FunWithGenericCollection\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAqwHEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:03:26.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

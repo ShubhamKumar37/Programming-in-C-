@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\programing in cSharp\\IssueWithNonGenericeCollections\\IssueWithNonGenericeCollections\\IssueWithNonGenericeCollections.csproj",
+      "projectUniqueName": "D:\\programing in cSharp\\C#_Prog\\IssueWithNonGenericeCollections\\IssueWithNonGenericeCollections\\IssueWithNonGenericeCollections.csproj",
       "projectName": "IssueWithNonGenericeCollections",
-      "projectPath": "D:\\programing in cSharp\\IssueWithNonGenericeCollections\\IssueWithNonGenericeCollections\\IssueWithNonGenericeCollections.csproj",
+      "projectPath": "D:\\programing in cSharp\\C#_Prog\\IssueWithNonGenericeCollections\\IssueWithNonGenericeCollections\\IssueWithNonGenericeCollections.csproj",
       "packagesPath": "C:\\Users\\Shubham Kumar\\.nuget\\packages\\",
-      "outputPath": "D:\\programing in cSharp\\IssueWithNonGenericeCollections\\IssueWithNonGenericeCollections\\obj\\",
+      "outputPath": "D:\\programing in cSharp\\C#_Prog\\IssueWithNonGenericeCollections\\IssueWithNonGenericeCollections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
