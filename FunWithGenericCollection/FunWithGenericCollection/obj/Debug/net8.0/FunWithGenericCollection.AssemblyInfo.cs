@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunWithGenericCollection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa4595c5c1ab9c4aadefaf56392466f953c8e5fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b43ab1acf5d9300fbb12d9f29d5f8764617eb9f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunWithGenericCollection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunWithGenericCollection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
