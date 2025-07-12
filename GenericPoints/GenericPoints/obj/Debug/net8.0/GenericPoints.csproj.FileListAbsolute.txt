@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\bin\Debug\net8.0\GenericPoints.exe
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\bin\Debug\net8.0\GenericPoints.deps.json
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\bin\Debug\net8.0\GenericPoints.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\bin\Debug\net8.0\GenericPoints.dll
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\bin\Debug\net8.0\GenericPoints.pdb
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\obj\Debug\net8.0\GenericPoints.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\obj\Debug\net8.0\GenericPoints.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\obj\Debug\net8.0\GenericPoints.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\obj\Debug\net8.0\GenericPoints.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\obj\Debug\net8.0\GenericPoints.sourcelink.json
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\obj\Debug\net8.0\GenericPoints.dll
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\obj\Debug\net8.0\refint\GenericPoints.dll
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\obj\Debug\net8.0\GenericPoints.pdb
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\obj\Debug\net8.0\GenericPoints.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\GenericPoints\GenericPoints\obj\Debug\net8.0\ref\GenericPoints.dll

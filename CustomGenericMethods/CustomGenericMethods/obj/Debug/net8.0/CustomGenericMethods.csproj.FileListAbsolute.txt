@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\bin\Debug\net8.0\CustomGenericMethods.exe
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\bin\Debug\net8.0\CustomGenericMethods.deps.json
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\bin\Debug\net8.0\CustomGenericMethods.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\bin\Debug\net8.0\CustomGenericMethods.dll
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\bin\Debug\net8.0\CustomGenericMethods.pdb
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.sourcelink.json
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.dll
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\obj\Debug\net8.0\refint\CustomGenericMethods.dll
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.pdb
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\CustomGenericMethods\CustomGenericMethods\obj\Debug\net8.0\ref\CustomGenericMethods.dll

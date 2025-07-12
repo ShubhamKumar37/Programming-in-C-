@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\bin\Debug\net8.0\CarDelegate.exe
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\bin\Debug\net8.0\CarDelegate.deps.json
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\bin\Debug\net8.0\CarDelegate.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\bin\Debug\net8.0\CarDelegate.dll
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\bin\Debug\net8.0\CarDelegate.pdb
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\obj\Debug\net8.0\CarDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\obj\Debug\net8.0\CarDelegate.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\obj\Debug\net8.0\CarDelegate.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\obj\Debug\net8.0\CarDelegate.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\obj\Debug\net8.0\CarDelegate.sourcelink.json
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\obj\Debug\net8.0\CarDelegate.dll
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\obj\Debug\net8.0\refint\CarDelegate.dll
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\obj\Debug\net8.0\CarDelegate.pdb
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\obj\Debug\net8.0\CarDelegate.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\CarDelegate\CarDelegate\obj\Debug\net8.0\ref\CarDelegate.dll
