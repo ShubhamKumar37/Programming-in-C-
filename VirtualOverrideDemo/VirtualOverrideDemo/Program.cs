@@ -28,7 +28,7 @@ public class Developer : Employee
 
 public class Intern : Employee
 {
-    public override void GiveBonus()
+    public  void GiveBonus()
     {
         Console.WriteLine("This is a Intern class and we can give {0} 1% bonus", Name);
     }

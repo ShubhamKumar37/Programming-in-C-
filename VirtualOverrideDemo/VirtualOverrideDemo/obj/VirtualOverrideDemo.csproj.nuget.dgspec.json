@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\VirtualOverrideDemo\\VirtualOverrideDemo\\VirtualOverrideDemo.csproj": {}
+    "D:\\programing in cSharp\\C#_Prog\\VirtualOverrideDemo\\VirtualOverrideDemo\\VirtualOverrideDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\VirtualOverrideDemo\\VirtualOverrideDemo\\VirtualOverrideDemo.csproj": {
+    "D:\\programing in cSharp\\C#_Prog\\VirtualOverrideDemo\\VirtualOverrideDemo\\VirtualOverrideDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\VirtualOverrideDemo\\VirtualOverrideDemo\\VirtualOverrideDemo.csproj",
+        "projectUniqueName": "D:\\programing in cSharp\\C#_Prog\\VirtualOverrideDemo\\VirtualOverrideDemo\\VirtualOverrideDemo.csproj",
         "projectName": "VirtualOverrideDemo",
-        "projectPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\VirtualOverrideDemo\\VirtualOverrideDemo\\VirtualOverrideDemo.csproj",
+        "projectPath": "D:\\programing in cSharp\\C#_Prog\\VirtualOverrideDemo\\VirtualOverrideDemo\\VirtualOverrideDemo.csproj",
         "packagesPath": "C:\\Users\\Shubham Kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\VirtualOverrideDemo\\VirtualOverrideDemo\\obj\\",
+        "outputPath": "D:\\programing in cSharp\\C#_Prog\\VirtualOverrideDemo\\VirtualOverrideDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,24 +60,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.17, 8.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.17, 8.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.17, 8.0.17]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.17, 8.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

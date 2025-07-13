@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\bin\Debug\net8.0\GenericDelegates.exe
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\bin\Debug\net8.0\GenericDelegates.deps.json
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\bin\Debug\net8.0\GenericDelegates.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\bin\Debug\net8.0\GenericDelegates.dll
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\bin\Debug\net8.0\GenericDelegates.pdb
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\obj\Debug\net8.0\GenericDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\obj\Debug\net8.0\GenericDelegates.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\obj\Debug\net8.0\GenericDelegates.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\obj\Debug\net8.0\GenericDelegates.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\obj\Debug\net8.0\GenericDelegates.sourcelink.json
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\obj\Debug\net8.0\GenericDelegates.dll
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\obj\Debug\net8.0\refint\GenericDelegates.dll
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\obj\Debug\net8.0\GenericDelegates.pdb
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\obj\Debug\net8.0\GenericDelegates.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\GenericDelegates\GenericDelegates\obj\Debug\net8.0\ref\GenericDelegates.dll

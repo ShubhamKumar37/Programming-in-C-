@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net8.0\ActionAndFuncDelegates.exe
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net8.0\ActionAndFuncDelegates.deps.json
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net8.0\ActionAndFuncDelegates.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net8.0\ActionAndFuncDelegates.dll
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net8.0\ActionAndFuncDelegates.pdb
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.sourcelink.json
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.dll
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net8.0\refint\ActionAndFuncDelegates.dll
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.pdb
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net8.0\ref\ActionAndFuncDelegates.dll
