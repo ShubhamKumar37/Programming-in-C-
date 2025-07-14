@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\bin\Debug\net8.0\CarEvents.exe
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\bin\Debug\net8.0\CarEvents.deps.json
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\bin\Debug\net8.0\CarEvents.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\bin\Debug\net8.0\CarEvents.dll
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\bin\Debug\net8.0\CarEvents.pdb
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\obj\Debug\net8.0\CarEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\obj\Debug\net8.0\CarEvents.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\obj\Debug\net8.0\CarEvents.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\obj\Debug\net8.0\CarEvents.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\obj\Debug\net8.0\CarEvents.sourcelink.json
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\obj\Debug\net8.0\CarEvents.dll
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\obj\Debug\net8.0\refint\CarEvents.dll
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\obj\Debug\net8.0\CarEvents.pdb
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\obj\Debug\net8.0\CarEvents.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\CarEvents\CarEvents\obj\Debug\net8.0\ref\CarEvents.dll

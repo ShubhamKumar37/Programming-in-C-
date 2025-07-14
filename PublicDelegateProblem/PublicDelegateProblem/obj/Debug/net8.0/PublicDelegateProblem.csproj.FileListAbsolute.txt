@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.exe
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.deps.json
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.dll
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.pdb
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.sourcelink.json
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.dll
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net8.0\refint\PublicDelegateProblem.dll
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.pdb
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net8.0\ref\PublicDelegateProblem.dll
