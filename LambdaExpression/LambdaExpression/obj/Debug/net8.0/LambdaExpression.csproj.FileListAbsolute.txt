@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\obj\Debug\net8.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\obj\Debug\net8.0\LambdaExpression.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\obj\Debug\net8.0\LambdaExpression.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\obj\Debug\net8.0\LambdaExpression.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\obj\Debug\net8.0\LambdaExpression.sourcelink.json
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\bin\Debug\net8.0\LambdaExpression.exe
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\bin\Debug\net8.0\LambdaExpression.deps.json
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\bin\Debug\net8.0\LambdaExpression.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\bin\Debug\net8.0\LambdaExpression.dll
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\bin\Debug\net8.0\LambdaExpression.pdb
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\obj\Debug\net8.0\LambdaExpression.dll
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\obj\Debug\net8.0\refint\LambdaExpression.dll
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\obj\Debug\net8.0\LambdaExpression.pdb
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\obj\Debug\net8.0\LambdaExpression.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\LambdaExpression\LambdaExpression\obj\Debug\net8.0\ref\LambdaExpression.dll

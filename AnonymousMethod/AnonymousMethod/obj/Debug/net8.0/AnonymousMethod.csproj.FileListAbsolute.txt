@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.exe
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.deps.json
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.dll
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.pdb
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.sourcelink.json
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.dll
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\obj\Debug\net8.0\refint\AnonymousMethod.dll
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.pdb
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\AnonymousMethod\AnonymousMethod\obj\Debug\net8.0\ref\AnonymousMethod.dll
