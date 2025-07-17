@@ -31,3 +31,18 @@ static void ReflectOverQueryResults(object resultSet, string queryType = "Query 
     Console.WriteLine("resultSet is of type: {0}", resultSet.GetType().Name);
     Console.WriteLine("resultSet location: {0}", resultSet.GetType().Assembly.GetName().Name);
 }
+
+DefaultWithEmpty(); static void DefaultWithEmpty()
+{
+    int[] numbers = new int[] { 4, 3, 5, 7, 312, 3, 243, 123, 12 };
+    foreach (var i in (from j in numbers where j > 10000 select j).DefaultIfEmpty(-1)) Console.WriteLine(i);
+}
+
+IEnumerable<string> strArr = GetStringSubset();
+//foreach (var i in strArr) Console.WriteLine(i);
+foreach(string i in GetStringSubset()) Console.WriteLine(i);
+static IEnumerable<string> GetStringSubset()
+{
+    string[] arr = { "Light Red", "Green", "Yellow", "Dark Red", "Red", "Purple" };
+    return (from i in arr where i.Contains(" ") select i);
+}

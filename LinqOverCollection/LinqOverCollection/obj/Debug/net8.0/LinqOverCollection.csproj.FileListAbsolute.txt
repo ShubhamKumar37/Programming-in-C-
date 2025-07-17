@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\bin\Debug\net8.0\LinqOverCollection.exe
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\bin\Debug\net8.0\LinqOverCollection.deps.json
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\bin\Debug\net8.0\LinqOverCollection.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\bin\Debug\net8.0\LinqOverCollection.dll
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\bin\Debug\net8.0\LinqOverCollection.pdb
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\obj\Debug\net8.0\LinqOverCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\obj\Debug\net8.0\LinqOverCollection.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\obj\Debug\net8.0\LinqOverCollection.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\obj\Debug\net8.0\LinqOverCollection.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\obj\Debug\net8.0\LinqOverCollection.sourcelink.json
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\obj\Debug\net8.0\LinqOverCollection.dll
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\obj\Debug\net8.0\refint\LinqOverCollection.dll
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\obj\Debug\net8.0\LinqOverCollection.pdb
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\obj\Debug\net8.0\LinqOverCollection.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\LinqOverCollection\LinqOverCollection\obj\Debug\net8.0\ref\LinqOverCollection.dll
