@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\bin\Debug\net8.0\LinqOverArray.exe
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\bin\Debug\net8.0\LinqOverArray.deps.json
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\bin\Debug\net8.0\LinqOverArray.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\bin\Debug\net8.0\LinqOverArray.dll
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\bin\Debug\net8.0\LinqOverArray.pdb
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\obj\Debug\net8.0\LinqOverArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\obj\Debug\net8.0\LinqOverArray.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\obj\Debug\net8.0\LinqOverArray.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\obj\Debug\net8.0\LinqOverArray.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\obj\Debug\net8.0\LinqOverArray.sourcelink.json
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\obj\Debug\net8.0\LinqOverArray.dll
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\obj\Debug\net8.0\refint\LinqOverArray.dll
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\obj\Debug\net8.0\LinqOverArray.pdb
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\obj\Debug\net8.0\LinqOverArray.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\LinqOverArray\LinqOverArray\obj\Debug\net8.0\ref\LinqOverArray.dll
