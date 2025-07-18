@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programing in cSharp\\C#_Prog\\MyFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3FBBC7-521D-42D0-AE52-8A8E32AD68F1}|MyFirstApp\\MyFirstApp.csproj|d:\\programing in csharp\\c#_prog\\myfirstapp\\myfirstapp\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E3FBBC7-521D-42D0-AE52-8A8E32AD68F1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3FBBC7-521D-42D0-AE52-8A8E32AD68F1}|MyFirstApp\\MyFirstApp.csproj|d:\\programing in csharp\\c#_prog\\myfirstapp\\myfirstapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3FBBC7-521D-42D0-AE52-8A8E32AD68F1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3FBBC7-521D-42D0-AE52-8A8E32AD68F1}|MyFirstApp\\MyFirstApp.csproj|d:\\programing in csharp\\c#_prog\\myfirstapp\\myfirstapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3FBBC7-521D-42D0-AE52-8A8E32AD68F1}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\MyFirstApp\\MyFirstApp\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Models\\Item.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\MyFirstApp\\MyFirstApp\\Models\\Item.cs",
+              "RelativeToolTip": "MyFirstApp\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:49:44.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Overview.cshtml",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\MyFirstApp\\MyFirstApp\\Views\\Items\\Overview.cshtml",
+              "RelativeDocumentMoniker": "MyFirstApp\\Views\\Items\\Overview.cshtml",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\MyFirstApp\\MyFirstApp\\Views\\Items\\Overview.cshtml",
+              "RelativeToolTip": "MyFirstApp\\Views\\Items\\Overview.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T12:54:54.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\MyFirstApp\\MyFirstApp\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\MyFirstApp\\MyFirstApp\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "MyFirstApp\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:52:15.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

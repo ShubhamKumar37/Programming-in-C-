@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\bin\Debug\net8.0\FunWithLinqExpression.exe
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\bin\Debug\net8.0\FunWithLinqExpression.deps.json
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\bin\Debug\net8.0\FunWithLinqExpression.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\bin\Debug\net8.0\FunWithLinqExpression.dll
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\bin\Debug\net8.0\FunWithLinqExpression.pdb
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\obj\Debug\net8.0\FunWithLinqExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\obj\Debug\net8.0\FunWithLinqExpression.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\obj\Debug\net8.0\FunWithLinqExpression.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\obj\Debug\net8.0\FunWithLinqExpression.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\obj\Debug\net8.0\FunWithLinqExpression.sourcelink.json
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\obj\Debug\net8.0\FunWithLinqExpression.dll
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\obj\Debug\net8.0\refint\FunWithLinqExpression.dll
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\obj\Debug\net8.0\FunWithLinqExpression.pdb
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\obj\Debug\net8.0\FunWithLinqExpression.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\FunWithLinqExpression\FunWithLinqExpression\obj\Debug\net8.0\ref\FunWithLinqExpression.dll
