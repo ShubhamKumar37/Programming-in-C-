@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\bin\Debug\net9.0\SImpleMultiThreadApp.exe
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\bin\Debug\net9.0\SImpleMultiThreadApp.deps.json
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\bin\Debug\net9.0\SImpleMultiThreadApp.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\bin\Debug\net9.0\SImpleMultiThreadApp.dll
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\bin\Debug\net9.0\SImpleMultiThreadApp.pdb
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\obj\Debug\net9.0\SImpleMultiThreadApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\obj\Debug\net9.0\SImpleMultiThreadApp.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\obj\Debug\net9.0\SImpleMultiThreadApp.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\obj\Debug\net9.0\SImpleMultiThreadApp.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\obj\Debug\net9.0\SImpleMultiThreadApp.sourcelink.json
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\obj\Debug\net9.0\SImpleMultiThreadApp.dll
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\obj\Debug\net9.0\refint\SImpleMultiThreadApp.dll
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\obj\Debug\net9.0\SImpleMultiThreadApp.pdb
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\obj\Debug\net9.0\SImpleMultiThreadApp.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\SImpleMultiThreadApp\SImpleMultiThreadApp\obj\Debug\net9.0\ref\SImpleMultiThreadApp.dll
