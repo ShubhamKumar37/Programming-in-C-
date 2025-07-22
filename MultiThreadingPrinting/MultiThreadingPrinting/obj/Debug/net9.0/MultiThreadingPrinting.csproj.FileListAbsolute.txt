@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\bin\Debug\net9.0\MultiThreadingPrinting.exe
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\bin\Debug\net9.0\MultiThreadingPrinting.deps.json
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\bin\Debug\net9.0\MultiThreadingPrinting.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\bin\Debug\net9.0\MultiThreadingPrinting.dll
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\bin\Debug\net9.0\MultiThreadingPrinting.pdb
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\obj\Debug\net9.0\MultiThreadingPrinting.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\obj\Debug\net9.0\MultiThreadingPrinting.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\obj\Debug\net9.0\MultiThreadingPrinting.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\obj\Debug\net9.0\MultiThreadingPrinting.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\obj\Debug\net9.0\MultiThreadingPrinting.sourcelink.json
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\obj\Debug\net9.0\MultiThreadingPrinting.dll
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\obj\Debug\net9.0\refint\MultiThreadingPrinting.dll
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\obj\Debug\net9.0\MultiThreadingPrinting.pdb
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\obj\Debug\net9.0\MultiThreadingPrinting.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\MultiThreadingPrinting\MultiThreadingPrinting\obj\Debug\net9.0\ref\MultiThreadingPrinting.dll

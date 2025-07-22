@@ -1,0 +1,15 @@
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\bin\Debug\net9.0\FunWithCsharpAsync.exe
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\bin\Debug\net9.0\FunWithCsharpAsync.deps.json
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\bin\Debug\net9.0\FunWithCsharpAsync.runtimeconfig.json
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\bin\Debug\net9.0\FunWithCsharpAsync.dll
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\bin\Debug\net9.0\FunWithCsharpAsync.pdb
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\obj\Debug\net9.0\FunWithCsharpAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\obj\Debug\net9.0\FunWithCsharpAsync.AssemblyInfoInputs.cache
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\obj\Debug\net9.0\FunWithCsharpAsync.AssemblyInfo.cs
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\obj\Debug\net9.0\FunWithCsharpAsync.csproj.CoreCompileInputs.cache
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\obj\Debug\net9.0\FunWithCsharpAsync.sourcelink.json
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\obj\Debug\net9.0\FunWithCsharpAsync.dll
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\obj\Debug\net9.0\refint\FunWithCsharpAsync.dll
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\obj\Debug\net9.0\FunWithCsharpAsync.pdb
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\obj\Debug\net9.0\FunWithCsharpAsync.genruntimeconfig.cache
+D:\programing in cSharp\C#_Prog\FunWithCsharpAsync\FunWithCsharpAsync\obj\Debug\net9.0\ref\FunWithCsharpAsync.dll
