@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{512521CB-4C8B-4DF7-82EA-176EAE48E658}|AutoLot.Samples\\AutoLot.Samples.csproj|solutionrelative:autolot.samples\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{512521CB-4C8B-4DF7-82EA-176EAE48E658}|AutoLot.Samples\\AutoLot.Samples.csproj|d:\\programing in csharp\\c#_prog\\autolot.samples\\autolot.samples\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512521CB-4C8B-4DF7-82EA-176EAE48E658}|AutoLot.Samples\\AutoLot.Samples.csproj|solutionrelative:autolot.samples\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512521CB-4C8B-4DF7-82EA-176EAE48E658}|AutoLot.Samples\\AutoLot.Samples.csproj|d:\\programing in csharp\\c#_prog\\autolot.samples\\autolot.samples\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512521CB-4C8B-4DF7-82EA-176EAE48E658}|AutoLot.Samples\\AutoLot.Samples.csproj|solutionrelative:autolot.samples\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512521CB-4C8B-4DF7-82EA-176EAE48E658}|AutoLot.Samples\\AutoLot.Samples.csproj|d:\\programing in csharp\\c#_prog\\autolot.samples\\autolot.samples\\models\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512521CB-4C8B-4DF7-82EA-176EAE48E658}|AutoLot.Samples\\AutoLot.Samples.csproj|solutionrelative:autolot.samples\\models\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512521CB-4C8B-4DF7-82EA-176EAE48E658}|AutoLot.Samples\\AutoLot.Samples.csproj|d:\\programing in csharp\\c#_prog\\autolot.samples\\autolot.samples\\models\\make.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512521CB-4C8B-4DF7-82EA-176EAE48E658}|AutoLot.Samples\\AutoLot.Samples.csproj|solutionrelative:autolot.samples\\models\\make.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{512521CB-4C8B-4DF7-82EA-176EAE48E658}|AutoLot.Samples\\AutoLot.Samples.csproj|d:\\programing in csharp\\c#_prog\\autolot.samples\\autolot.samples\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{512521CB-4C8B-4DF7-82EA-176EAE48E658}|AutoLot.Samples\\AutoLot.Samples.csproj|solutionrelative:autolot.samples\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Radio.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\Models\\Radio.cs",
+              "RelativeDocumentMoniker": "AutoLot.Samples\\Models\\Radio.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\Models\\Radio.cs",
+              "RelativeToolTip": "AutoLot.Samples\\Models\\Radio.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:24:16.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Make.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\Models\\Make.cs",
+              "RelativeDocumentMoniker": "AutoLot.Samples\\Models\\Make.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\Models\\Make.cs",
+              "RelativeToolTip": "AutoLot.Samples\\Models\\Make.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:13:23.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "AutoLot.Samples\\Models\\Car.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\Models\\Car.cs",
+              "RelativeToolTip": "AutoLot.Samples\\Models\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:13:21.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AutoLot.Samples\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "AutoLot.Samples\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:13:18.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,26 +104,27 @@
               "RelativeDocumentMoniker": "AutoLot.Samples\\ApplicationDbContext.cs",
               "ToolTip": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\ApplicationDbContext.cs",
               "RelativeToolTip": "AutoLot.Samples\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T18:36:06.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "AutoLot.Samples\\GlobalUsing.cs",
               "ToolTip": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\GlobalUsing.cs",
               "RelativeToolTip": "AutoLot.Samples\\GlobalUsing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T18:30:25.891Z"
+              "WhenOpened": "2025-07-22T18:30:25.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\Program.cs",
               "RelativeDocumentMoniker": "AutoLot.Samples\\Program.cs",

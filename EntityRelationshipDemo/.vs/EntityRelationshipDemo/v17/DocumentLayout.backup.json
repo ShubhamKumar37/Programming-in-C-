@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|d:\\programing in csharp\\c#_prog\\entityrelationshipdemo\\entityrelationshipdemo\\migrations\\20250728115856_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|solutionrelative:entityrelationshipdemo\\migrations\\20250728115856_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|d:\\programing in csharp\\c#_prog\\entityrelationshipdemo\\entityrelationshipdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|solutionrelative:entityrelationshipdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|d:\\programing in csharp\\c#_prog\\entityrelationshipdemo\\entityrelationshipdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|solutionrelative:entityrelationshipdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|d:\\programing in csharp\\c#_prog\\entityrelationshipdemo\\entityrelationshipdemo\\models\\bookpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|solutionrelative:entityrelationshipdemo\\models\\bookpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|d:\\programing in csharp\\c#_prog\\entityrelationshipdemo\\entityrelationshipdemo\\entityrelationshipdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|solutionrelative:entityrelationshipdemo\\entityrelationshipdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|d:\\programing in csharp\\c#_prog\\entityrelationshipdemo\\entityrelationshipdemo\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|solutionrelative:entityrelationshipdemo\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|d:\\programing in csharp\\c#_prog\\entityrelationshipdemo\\entityrelationshipdemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|solutionrelative:entityrelationshipdemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|d:\\programing in csharp\\c#_prog\\entityrelationshipdemo\\entityrelationshipdemo\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|solutionrelative:entityrelationshipdemo\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|d:\\programing in csharp\\c#_prog\\entityrelationshipdemo\\entityrelationshipdemo\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EBB055-FC30-42F7-8D89-E1D23AA93515}|EntityRelationshipDemo\\EntityRelationshipDemo.csproj|solutionrelative:entityrelationshipdemo\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250728115856_Initial Migration.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Migrations\\20250728115856_Initial Migration.cs",
+              "RelativeDocumentMoniker": "EntityRelationshipDemo\\Migrations\\20250728115856_Initial Migration.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Migrations\\20250728115856_Initial Migration.cs",
+              "RelativeToolTip": "EntityRelationshipDemo\\Migrations\\20250728115856_Initial Migration.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:58:56.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityRelationshipDemo",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\EntityRelationshipDemo.csproj",
+              "RelativeDocumentMoniker": "EntityRelationshipDemo\\EntityRelationshipDemo.csproj",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\EntityRelationshipDemo.csproj",
+              "RelativeToolTip": "EntityRelationshipDemo\\EntityRelationshipDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T11:57:42.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EntityRelationshipDemo\\Program.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Program.cs",
+              "RelativeToolTip": "EntityRelationshipDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:55:22.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "EntityRelationshipDemo\\appsettings.json",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\appsettings.json",
+              "RelativeToolTip": "EntityRelationshipDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T11:41:00.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookPublisher.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Models\\BookPublisher.cs",
+              "RelativeDocumentMoniker": "EntityRelationshipDemo\\Models\\BookPublisher.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Models\\BookPublisher.cs",
+              "RelativeToolTip": "EntityRelationshipDemo\\Models\\BookPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:37:48.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EntityRelationshipDemo\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "EntityRelationshipDemo\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:31:09.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "EntityRelationshipDemo\\Models\\Publisher.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Models\\Publisher.cs",
+              "RelativeToolTip": "EntityRelationshipDemo\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:30:36.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "EntityRelationshipDemo\\Models\\Book.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Models\\Book.cs",
+              "RelativeToolTip": "EntityRelationshipDemo\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:30:07.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "EntityRelationshipDemo\\Models\\Author.cs",
+              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\EntityRelationshipDemo\\EntityRelationshipDemo\\Models\\Author.cs",
+              "RelativeToolTip": "EntityRelationshipDemo\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:29:15.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
