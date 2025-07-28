@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoLot.Samples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94934b78fc9fdeaa76b08c617c3f5b2cae23fb99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc43d1fbd621928c8b22d78fa650b966d4908c29")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoLot.Samples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoLot.Samples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

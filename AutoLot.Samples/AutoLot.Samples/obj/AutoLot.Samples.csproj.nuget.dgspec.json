@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\AutoLot.Samples.csproj": {}
+    "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\AutoLot.Samples\\AutoLot.Samples\\AutoLot.Samples.csproj": {}
   },
   "projects": {
-    "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\AutoLot.Samples.csproj": {
+    "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\AutoLot.Samples\\AutoLot.Samples\\AutoLot.Samples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\AutoLot.Samples.csproj",
+        "projectUniqueName": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\AutoLot.Samples\\AutoLot.Samples\\AutoLot.Samples.csproj",
         "projectName": "AutoLot.Samples",
-        "projectPath": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\AutoLot.Samples.csproj",
+        "projectPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\AutoLot.Samples\\AutoLot.Samples\\AutoLot.Samples.csproj",
         "packagesPath": "C:\\Users\\Shubham Kumar\\.nuget\\packages\\",
-        "outputPath": "D:\\programing in cSharp\\C#_Prog\\AutoLot.Samples\\AutoLot.Samples\\obj\\",
+        "outputPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\AutoLot.Samples\\AutoLot.Samples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
