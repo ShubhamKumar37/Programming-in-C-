@@ -1,0 +1,13 @@
+# Ignore user-specific VS files and local settings
+.vs/
+*.vsidx
+*.db
+*.slnx.sqlite*
+FileContentIndex/
+
+# Ignore app configuration and env files
+appsettings.Development.json
+*.env
+VirtualArtGallery/obj/
+VirtualArtGallery/bin/
+# VirtualArtGallery/Properties/launchSettings.json
