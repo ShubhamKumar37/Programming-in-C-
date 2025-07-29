@@ -8,6 +8,56 @@ FileContentIndex/
 # Ignore app configuration and env files
 appsettings.Development.json
 *.env
+*obj/
+*bin/
+
+# Ignore Cache files
+*.cache
+
+# Ignore NuGet packages directory
+packages/
+
+# Ignore Azure Key Vault files
+Microsoft.Azure.KeyVault*
+
+# Ignore temporary files created by Visual Studio
+*.userprefs
+*.user
+*.suo
+*.cache
+
+# Ignore build output
+*.dll
+*.exe
+*.pdb
+*.app
+*.apk
+*.ipa
+*.class
+*.jar
+*.war
+*.zip
+*.tar
+*.gz
+*.7z
+*.log
+
+# Ignore IDE specific files
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+.vs/
+*.vsidx
+*.db
+*.slnx.sqlite*
+FileContentIndex/
+
+# Ignore app configuration and env files
+appsettings.Development.json
+*.env
 VirtualArtGallery/obj/
 VirtualArtGallery/bin/
 # VirtualArtGallery/Properties/launchSettings.json
+
