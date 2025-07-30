@@ -18,7 +18,9 @@ builder.Services.AddSwaggerGen();
 
 //builder.Services.AddScoped<IRegionRepository, InMemoryRegionRepository>();
 builder.Services.AddScoped<IRegionRepository, SQLRegionRepository>();
+builder.Services.AddScoped<IWalkRepository, SQLWalkRepository>();
 builder.Services.AddAutoMapper(cfg => cfg.AddProfile<AutoMapperProfiles>());
+
 
 var app = builder.Build();
 
