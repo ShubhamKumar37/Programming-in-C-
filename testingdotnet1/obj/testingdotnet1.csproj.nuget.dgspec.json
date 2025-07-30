@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\testingdotnet1\\testingdotnet1.csproj": {}
+    "D:\\programing in cSharp\\C#_Prog\\testingdotnet1\\testingdotnet1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\testingdotnet1\\testingdotnet1.csproj": {
+    "D:\\programing in cSharp\\C#_Prog\\testingdotnet1\\testingdotnet1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\testingdotnet1\\testingdotnet1.csproj",
+        "projectUniqueName": "D:\\programing in cSharp\\C#_Prog\\testingdotnet1\\testingdotnet1.csproj",
         "projectName": "testingdotnet1",
-        "projectPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\testingdotnet1\\testingdotnet1.csproj",
+        "projectPath": "D:\\programing in cSharp\\C#_Prog\\testingdotnet1\\testingdotnet1.csproj",
         "packagesPath": "C:\\Users\\Shubham Kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\testingdotnet1\\obj\\",
+        "outputPath": "D:\\programing in cSharp\\C#_Prog\\testingdotnet1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
