@@ -1,9 +1,8 @@
-﻿using NZWalks.API.Models.Domain;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace NZWalks.API.Models.DTO
 {
-    public class AddWalksRequestDto
+    public class UpdateWalksRequestDto
     {
         [Required]
         public string Name { get; set; }

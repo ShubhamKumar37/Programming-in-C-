@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using NZWalks.API.CustomActionFilter;
 using NZWalks.API.Data;
 using NZWalks.API.Models.Domain;
 using NZWalks.API.Models.DTO;
@@ -56,8 +57,11 @@ namespace NZWalks.API.Controllers
         }
 
         [HttpPost]
+        [ValidateModelAttributes]
         public async Task<IActionResult> CreateRegion([FromBody] AddRegionRequestDto addRegionRequestDto)
         {
+            //if(ModelState.IsValid == false) return BadRequest(ModelState); // Check if the model state is valid
+
             var newRegion = _mapper.Map<Region>(addRegionRequestDto);
 
             newRegion = await regionRepository.CreateAsync(newRegion); // Using the repository to create a new region
@@ -70,8 +74,10 @@ namespace NZWalks.API.Controllers
 
         [HttpPut]
         [Route("{id:guid}")] // Here i have to provide all the values to update the region even if I want to update only one value
+        [ValidateModelAttributes]
         public async Task<IActionResult> UpdateRegion([FromRoute] Guid id, [FromBody] UpdateRegionRequestDto updateRegionRequestDto)
         {
+            //if(ModelState.IsValid == false) return BadRequest(ModelState); // Check if the model state is valid
             var regionExist = await regionRepository.UpdateAsync(id, _mapper.Map<Region>(updateRegionRequestDto));
 
             var result = _mapper.Map<RegionDto>(regionExist);
