@@ -22,11 +22,29 @@ namespace NZWalks.API.Repositories
             return newWalk;
         }
 
-        public async Task<List<Walk>> GetAllAsync()
+        public async Task<List<Walk>> GetAllAsync(string? filterOn = null, string? filterQuery = null, string? sortOn = null, bool isAsc = true, int page = 1)
         {
             // This include is just like a populate function in SQL 
-            var walks = await _context.Walks.Include("DifficultyNavigation").Include("RegionNavigation").ToListAsync();
-            return walks;
+            //var walks = await _context.Walks.Include("DifficultyNavigation").Include("RegionNavigation").ToListAsync();
+            var walks = _context.Walks.Include("DifficultyNavigation").Include("RegionNavigation").AsQueryable();
+
+            if(string.IsNullOrWhiteSpace(filterOn) == false && string.IsNullOrWhiteSpace(filterQuery) == false)
+            {
+                if(filterOn.Equals("Name", StringComparison.OrdinalIgnoreCase))
+                    walks = walks.Where(x => x.Name.Contains(filterQuery));
+            }
+
+            if(string.IsNullOrWhiteSpace(sortOn) == false)
+            {
+                if(sortOn.Equals("Name", StringComparison.OrdinalIgnoreCase))
+                    walks = (bool)isAsc ? walks.OrderBy(x => x.Name) : walks.OrderByDescending(x => x.Name);
+                
+                else if(sortOn.Equals("LengthInKm", StringComparison.OrdinalIgnoreCase))
+                    walks = (bool)isAsc ? walks.OrderBy(x => x.LengthInKm) : walks.OrderByDescending(x => x.LengthInKm);
+            }
+
+            int skip = (page - 1) * 3; // Assuming page size is 10
+            return await walks.Skip(skip).Take(3).ToListAsync();
         }
 
         public async Task<Walk?> GetByIdAsync(Guid id)
