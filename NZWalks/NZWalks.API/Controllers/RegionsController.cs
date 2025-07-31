@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +14,7 @@ namespace NZWalks.API.Controllers
 {
     [Route("api/reg")] // This mean the domain will be http://localhost:5000/api/reg
     [ApiController]
+    
     public class RegionsController : ControllerBase
     {
 
@@ -48,6 +50,7 @@ namespace NZWalks.API.Controllers
 
         [HttpGet]
         [Route("{id:guid}")] // This means the method will respond to GET requests with a specific region ID
+        [Authorize]
         public async Task<IActionResult> GetRegionById([FromRoute] Guid id) // By FromRoute it will get the ID from the URL
         {
             // var regionId = _context.Regions.Find(id); // Find is only applicable for primary keys so we use LINQ

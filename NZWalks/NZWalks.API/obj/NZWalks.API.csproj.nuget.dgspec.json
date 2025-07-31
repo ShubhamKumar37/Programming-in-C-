@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {}
+    "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {}
   },
   "projects": {
-    "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {
+    "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+        "projectUniqueName": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
         "projectName": "NZWalks.API",
-        "projectPath": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+        "projectPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
         "packagesPath": "C:\\Users\\Shubham Kumar\\.nuget\\packages\\",
-        "outputPath": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\obj\\",
+        "outputPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,6 +54,14 @@
               "target": "Package",
               "version": "[15.0.1, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.7, )"
@@ -64,9 +72,17 @@
               "target": "Package",
               "version": "[9.0.7, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.13.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.13.0, )"
             }
           },
           "imports": [
@@ -80,6 +96,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.18, 8.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.18, 8.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.18, 8.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.18, 8.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -88,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
