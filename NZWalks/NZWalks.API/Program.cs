@@ -52,6 +52,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseMiddleware<NZWalks.API.Middleware.ExecptionHandlerMiddleware>();
+
 app.UseHttpsRedirection();
 
 app.UseAuthentication(); // Must be before UseAuthorization

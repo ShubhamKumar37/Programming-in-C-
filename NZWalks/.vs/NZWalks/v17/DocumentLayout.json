@@ -1,65 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\",
+  "WorkspaceRootPath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\models\\dto\\imageuploadreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\middleware\\execptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\middleware\\execptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\models\\dto\\imageuploadreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\imageuploadreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\migrations\\authdb\\20250731193713_create auth db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\migrations\\authdb\\20250731193713_create auth db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\migrations\\authdb\\20250731193713_create auth db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\migrations\\20250801105616_new table image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\shubham kumar\\onedrive\\desktop\\programming in c#\\nzwalks\\nzwalks.api\\migrations\\20250801105616_new table image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\migrations\\20250801105616_new table image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -80,7 +84,7 @@
         },
         {
           "DockedWidth": 60,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -92,24 +96,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LocalImageRepository.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Repositories\\LocalImageRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\LocalImageRepository.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Repositories\\LocalImageRepository.cs",
-              "RelativeToolTip": "NZWalks.API\\Repositories\\LocalImageRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBUAAABWAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ExecptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Middleware\\ExecptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Middleware\\ExecptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Middleware\\ExecptionHandlerMiddleware.cs",
+              "RelativeToolTip": "NZWalks.API\\Middleware\\ExecptionHandlerMiddleware.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T11:38:17.887Z",
+              "WhenOpened": "2025-08-01T18:39:47.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IImageRepository.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IImageRepository.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
               "RelativeToolTip": "NZWalks.API\\Repositories\\IImageRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,11 +122,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ImageUploadReqDto.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadReqDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadReqDto.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\ImageUploadReqDto.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadReqDto.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadReqDto.cs",
               "RelativeToolTip": "NZWalks.API\\Models\\DTO\\ImageUploadReqDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,24 +134,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ImagesController.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\ImagesController.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
               "RelativeToolTip": "NZWalks.API\\Controllers\\ImagesController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowCYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T11:02:01.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T11:02:01.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "20250801105616_New table image.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Migrations\\20250801105616_New table image.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Migrations\\20250801105616_New table image.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20250801105616_New table image.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Migrations\\20250801105616_New table image.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Migrations\\20250801105616_New table image.cs",
               "RelativeToolTip": "NZWalks.API\\Migrations\\20250801105616_New table image.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,11 +158,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeToolTip": "NZWalks.API\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T18:54:38.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocalImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\LocalImageRepository.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\LocalImageRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:38:17.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Image.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Image.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
               "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Image.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,11 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "20250731193713_create auth db.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Migrations\\AuthDb\\20250731193713_create auth db.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Migrations\\AuthDb\\20250731193713_create auth db.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\AuthDb\\20250731193713_create auth db.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Migrations\\AuthDb\\20250731193713_create auth db.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Migrations\\AuthDb\\20250731193713_create auth db.cs",
               "RelativeToolTip": "NZWalks.API\\Migrations\\AuthDb\\20250731193713_create auth db.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,11 +207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AuthDbContext.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Data\\AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Data\\AuthDbContext.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Data\\AuthDbContext.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Data\\AuthDbContext.cs",
               "RelativeToolTip": "NZWalks.API\\Data\\AuthDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,11 +219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Data\\AppDbContext.cs",
               "RelativeToolTip": "NZWalks.API\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +231,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "RegionsController.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
               "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAIwDgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,24 +243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Program.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Program.cs",
-              "RelativeToolTip": "NZWalks.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T18:54:38.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\appsettings.json",
               "RelativeDocumentMoniker": "NZWalks.API\\appsettings.json",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\appsettings.json",
               "RelativeToolTip": "NZWalks.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -240,11 +255,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SQLWalkRepository.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
               "RelativeToolTip": "NZWalks.API\\Repositories\\SQLWalkRepository.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,11 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IWalkRepository.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IWalkRepository.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
               "RelativeToolTip": "NZWalks.API\\Repositories\\IWalkRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -264,11 +279,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WalksController.cs",
-              "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "DocumentMoniker": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalksController.cs",
-              "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
               "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

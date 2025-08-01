@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EC83772-403A-4387-8C25-1D83DA431684}|NZWalks.API\\NZWalks.API.csproj|d:\\programing in csharp\\c#_prog\\nzwalks\\nzwalks.api\\models\\dto\\imageuploadreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -80,7 +80,7 @@
         },
         {
           "DockedWidth": 60,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LocalImageRepository.cs",
               "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Repositories\\LocalImageRepository.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\LocalImageRepository.cs",
@@ -105,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "IImageRepository.cs",
               "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IImageRepository.cs",
               "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
               "RelativeToolTip": "NZWalks.API\\Repositories\\IImageRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T11:35:47.054Z",
               "EditorCaption": ""
@@ -136,7 +136,7 @@
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\ImagesController.cs",
               "ToolTip": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
               "RelativeToolTip": "NZWalks.API\\Controllers\\ImagesController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowCoAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T11:02:01.995Z",
               "EditorCaption": ""
@@ -215,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\Program.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
