@@ -346,3 +346,5 @@ D:\programing in cSharp\C#_Prog\NZWalks\NZWalks.API\bin\Debug\net8.0\AutoMapper.
 C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\NZWalks\NZWalks.API\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Shubham Kumar\OneDrive\Desktop\Programming in C#\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\programing in cSharp\C#_Prog\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\programing in cSharp\C#_Prog\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

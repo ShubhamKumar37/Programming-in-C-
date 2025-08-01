@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYoWrMThfBc=",
+  "dgSpecHash": "PPVMxwTPNGo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shubham Kumar\\OneDrive\\Desktop\\Programming in C#\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+  "projectFilePath": "D:\\programing in cSharp\\C#_Prog\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shubham Kumar\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\Shubham Kumar\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
@@ -90,11 +90,7 @@
     "C:\\Users\\Shubham Kumar\\.nuget\\packages\\system.text.json\\9.0.7\\system.text.json.9.0.7.nupkg.sha512",
     "C:\\Users\\Shubham Kumar\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\Shubham Kumar\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\Shubham Kumar\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Shubham Kumar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.18\\microsoft.windowsdesktop.app.ref.8.0.18.nupkg.sha512",
-    "C:\\Users\\Shubham Kumar\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.18\\microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
-    "C:\\Users\\Shubham Kumar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.18\\microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
-    "C:\\Users\\Shubham Kumar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.18\\microsoft.netcore.app.host.win-x64.8.0.18.nupkg.sha512"
+    "C:\\Users\\Shubham Kumar\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
