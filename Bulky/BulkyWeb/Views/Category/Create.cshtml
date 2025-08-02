@@ -1,0 +1,30 @@
+@model Category
+
+<form method="post" asp-action="Create">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Create Category</h2>
+            <hr />
+        </div>
+        <div asp-validation-summary="All"></div>
+        @* This validation will make a list for all the issue along with the field name. and it will be shown at the top of the form. *@
+        <div class="mb-3 row">
+            <label class="p-0" asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" type="text" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3 row">
+            <label class="p-0" asp-for="DisplayOrder"></label>
+            <input asp-for="DisplayOrder" class="form-control" min="0" />
+            <span asp-validation-for="DisplayOrder" class="text-danger"></span>
+        </div>
+        <div class="row ">
+            <div class="col-6 col-md-3">
+                <button type="submit" class="btn btn-primary w-100">Create</button>
+            </div>
+            <div class="col-6 col-md-3">
+                @* <a asp-controller="Category" asp-action="Index" class="btn btn-secondary border-1 border-dark w-100">Back to List</a> *@
+            </div>
+        </div>
+    </div>
+</form>
