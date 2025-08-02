@@ -23,6 +23,32 @@ namespace BulkyWeb.Controllers
         {
             return View(); // If i do not pass anything the view will be created with a model with default values
         }
+        public IActionResult Edit(int? id)
+        {
+            if(id == null || id == 0)
+            {
+                return NotFound(); // If the id is null or 0, we return a NotFound result
+            }
+
+            var categoryFromDb = context.Categories.Find(id); // We find the category by id
+            if (categoryFromDb == null) return NotFound(); // If the category is not found, we return NotFound
+
+            return View(categoryFromDb);
+        }
+
+        
+
+        [HttpPut]
+        public IActionResult Edit(Category category)
+        {
+            if (ModelState.IsValid) 
+            {
+                context.Categories.Update(category);
+                context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(category); // If model state is not valid, we return the same view with the model to show validation errors
+        }
 
         [HttpPost]
         public IActionResult Create(Category category)

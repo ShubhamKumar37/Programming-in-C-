@@ -12,17 +12,26 @@
 
 <table class="table table-bordered table-striped">
     <thead>
-    <tr>
+    <tr class="col text-center  ">
         <th>Category Name</th>
         <th>Display Order</th>
+        <th>Edit</th>
     </tr>
     </thead>
     <tbody>
         @foreach(var i in Model.OrderByDescending(u => u.DisplayOrder))
         {
-            <tr>
+            <tr class="col text-center">
                 <td>@i.Name</td>
                 <td>@i.DisplayOrder</td>
+                <td>
+                    <a asp-controller="Category" asp-action="Edit" asp-route-id="@i.Id" class="btn btn-primary rounded-2">
+                        <i class="bi bi-pencil"></i> Edit
+                    </a>
+                    <a asp-controller="Category" asp-action="Delete" class="btn btn-danger rounded-2">
+                        <i class="bi bi-trash"></i> Delete
+                    </a>
+                </td>
             </tr>
         }
     </tbody>
