@@ -1,20 +1,23 @@
 ﻿@model Category
+<partial name="_Notifications" />
+<form method="post">
+    @* <input asp-for="Id" hidden/> This is required because Id is not anywhere here so when it will pass to the 
+Edit controller the Id will be set to be 0 which means db will create new record instead of updating existing one *@
 
-<form method="put" asp-action="Create">
     <div class="border p-3 mt-4">
         <div class="row pb-2">
-            <h2 class="text-primary">Create Category</h2>
+            <h2 class="text-primary">Edit Category</h2>
             <hr />
         </div>
         <div asp-validation-summary="All"></div>
         <div class="mb-3 row">
             <label class="p-0" asp-for="Name"></label>
-            <input asp-for="Name" class="form-control" type="text" value="@Model.Name" />
+            <input asp-for="Name" class="form-control" type="text"/>
             <span asp-validation-for="Name" class="text-danger"></span>
         </div>
         <div class="mb-3 row">
             <label class="p-0" asp-for="DisplayOrder"></label>
-            <input asp-for="DisplayOrder" value="@Model.DisplayOrder" class="form-control" min="0" />
+            <input asp-for="DisplayOrder" class="form-control" min="0" />
             <span asp-validation-for="DisplayOrder" class="text-danger"></span>
         </div>
         <div class="row ">

@@ -1,8 +1,8 @@
 using System.Diagnostics;
-using BulkyWeb.Models;
+using BulkyWebRazor_Temp.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BulkyWeb.Controllers
+namespace BulkyWebRazor_Temp.Controllers
 {
     public class HomeController : Controller
     {
