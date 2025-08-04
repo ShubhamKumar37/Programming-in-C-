@@ -1,4 +1,6 @@
-﻿using Bulky.DataAccess.Repository.IRepository;
+﻿using Bulky.DataAccess.Data;
+using Bulky.DataAccess.Repository.IRepository;
+using Bulky.DataAccess.Reposittory;
 using Bulky.Models.Models;
 using System;
 using System.Collections.Generic;
@@ -11,39 +13,16 @@ namespace Bulky.DataAccess.Repository
 {
     public class CategoryRepository : Repository<Category>, ICategoryRepository
     {
-        void IRepository<Category>.Add(Category entity)
-        {
-            throw new NotImplementedException();
-        }
+        private readonly AppDbContext db;
 
-        Category IRepository<Category>.Get(Expression<Func<Category, bool>> filter)
+        public CategoryRepository(AppDbContext db) : base(db)
         {
-            throw new NotImplementedException();
-        }
-
-        IEnumerable<Category> IRepository<Category>.GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        void IRepository<Category>.Remove(Category entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        void IRepository<Category>.RemoveRange(IEnumerable<Category> entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        void ICategoryRepository.Save()
-        {
-            throw new NotImplementedException();
+            this.db = db;
         }
 
         void ICategoryRepository.Update(Category category)
         {
-            throw new NotImplementedException();
+            db.Categories.Update(category);
         }
     }
 }

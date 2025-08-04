@@ -1,21 +1,22 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Bulky.DataAccess.Data;
 using Bulky.Models.Models;
+using Bulky.DataAccess.Repository.IRepository;
 
 namespace BulkyWeb.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly AppDbContext context;
+        private readonly IUnitOfWork context;
 
-        public CategoryController(AppDbContext context)
+        public CategoryController(IUnitOfWork context)
         {
             this.context = context;
         }
 
         public IActionResult Index()
         {
-            List<Category> categories = context.Categories.ToList();
+            List<Category> categories = context.Category.GetAll().ToList();
             return View(categories);
         }
 
@@ -30,7 +31,7 @@ namespace BulkyWeb.Controllers
                 return NotFound(); // If the id is null or 0, we return a NotFound result
             }
 
-            var categoryFromDb = context.Categories.Find(id); // We find the category by id
+            var categoryFromDb = context.Category.Get(u => u.Id == id); // We find the category by id
             if (categoryFromDb == null) return NotFound(); // If the category is not found, we return NotFound
 
             return View(categoryFromDb);
@@ -41,8 +42,8 @@ namespace BulkyWeb.Controllers
         {
             if (ModelState.IsValid) 
             {
-                context.Categories.Update(category);
-                context.SaveChanges();
+                context.Category.Update(category);
+                context.Save();
                 TempData["success"] = "Category updated successfully"; // TempData is used to pass data between requests
                 return RedirectToAction("Index");
             }
@@ -56,8 +57,8 @@ namespace BulkyWeb.Controllers
             //if(category.Name != null && category.Name.ToLower() == "test") ModelState.AddModelError("Name", "Test is not allowed");
             if(ModelState.IsValid) // This validation is from data annotations in the model
             {
-                context.Categories.Add(category);
-                context.SaveChanges();
+                context.Category.Add(category);
+                context.Save();
                 TempData["success"] = "Category created successfully"; // TempData is used to pass data between requests
                 return RedirectToAction("Index"); // Index means the same controller, without it we can wrie the name of other controller where we wanted to redirect
             }
@@ -68,7 +69,7 @@ namespace BulkyWeb.Controllers
         {
             if (id == null || id == 0) return NotFound(); // If the id is null or 0, we return a NotFound result
 
-            var categoryFromDb = context.Categories.Find(id); // We find the category by id
+            var categoryFromDb = context.Category.Get(u => u.Id == id); // We find the category by id
             if (categoryFromDb == null) return NotFound(); // If the category is not found, we return NotFound
 
             return View(categoryFromDb);
@@ -77,8 +78,8 @@ namespace BulkyWeb.Controllers
         [HttpPost]
         public IActionResult Delete(Category category)
         {
-                context.Categories.Remove(category);
-                context.SaveChanges();
+                context.Category.Remove(category);
+                context.Save();
                 TempData["success"] = "Category deleted successfully"; // TempData is used to pass data between requests
             return RedirectToAction("Index");
         }

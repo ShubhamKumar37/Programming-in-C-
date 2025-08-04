@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using Bulky.DataAccess.Data;
-using Bulky.DataAccess.Reposittory.IRepository;
+using Bulky.DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 
 namespace Bulky.DataAccess.Reposittory
