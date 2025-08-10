@@ -1,0 +1,53 @@
+﻿@model List<Bulky.Models.Models.Product>
+
+<div class="container h-100 mt-5 mb-5">
+    <div class="row  pt-8 pb-8">
+        <div class="col-6">
+            <h2 class="text-primary">Product List</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Product" asp-action="Upsert" class="btn-primary bg-dark text-light p-3 rounded-3 text-decoration-none">Create new Product <i class="bi bi-plus-lg"></i></a>
+        </div>
+    </div>
+
+<table class="table table-bordered table-striped">
+    <thead>
+    <tr class="col text-center  ">
+                <td>Title</td>
+                <td>Description</td>
+                <td>Author</td>
+                <td>ISBN</td>
+                <td>List Price</td>
+                <td>Price</td>
+                <td>Price (50+) </td>
+                <td>Price (100+) </td>
+                <td>Action</td>
+    </tr>
+    </thead>
+    <tbody>
+        @foreach(var i in Model)
+        {
+            <tr class="col text-center">
+                <td>@i.Title</td>
+                <td>@i.Description</td>
+                <td>@i.Author</td>
+                <td>@i.ISBN</td>
+                <td>@i.ListPrice</td>
+                <td>@i.Price</td>
+                <td>@i.Price50</td>
+                <td>@i.Price100</td>
+                <td>
+                    <a asp-controller="Product" asp-action="Upsert" asp-route-id="@i.Id" class="btn btn-primary rounded-2">
+                        <i class="bi bi-pencil"></i>
+                    </a>
+                        <form method="post" asp-action="Delete" asp-route-id="@i.Id" style="display:inline">
+                            <button type="submit" class="btn btn-danger rounded-2" onclick="return confirm('Are you sure you want to delete this product?');">
+                                <i class="bi bi-trash"></i>
+                            </button>
+                        </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</div>
+</table>

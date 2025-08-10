@@ -1,9 +1,11 @@
 using System.Diagnostics;
-using BulkyWebRazor_Temp.Models;
+using Bulky.DataAccess.Models;
+using BulkyWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BulkyWebRazor_Temp.Controllers
+namespace BulkyWeb.Areas.Customer.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -26,7 +28,7 @@ namespace BulkyWebRazor_Temp.Controllers
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View(new Bulky.DataAccess.Models.ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }
